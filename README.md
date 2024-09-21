@@ -42,7 +42,7 @@ Text line 2
 
 ## Emphasis
 
-Text can be emphasized by encapsulating words or phrases in a combination of symbols. Note that some styles cannot be combined with spaces.
+Text can be emphasized by encapsulating words or phrases in a combination of symbols.
 
 | Style | Input | Output |
 | :-- | :-- | :-- |
@@ -52,9 +52,8 @@ Text can be emphasized by encapsulating words or phrases in a combination of sym
 | Bold and nested italics | `**2 symbols and _1 to nest_**` | **2 symbols and _1 to nest_** |
 | Italics and nested bold | `*1 symbol and __2 to nest__*` | *1 symbol and __2 to nest__* |
 | Strike-through | `~~2 tildes~~` | ~~2 tildes~~ |
-| Subscript | `1 ~tilde~ (no spaces)` | 1 ~tilde~ (no spaces) |
-| Superscript | `1 ^caret^ (no spaces)` | 1 ^caret^ (no spaces) |
-| Highlight | `==2 equal signs==` | ==2 equal signs== |
+| Subscript | `<sub>Sub tag</sub> for subscript` | <sub>Sub tag</sub> for subscript |
+| Superscript | `<sup>Sup tag</sup> for superscript` | <sup>Sup tag</sup> for superscript |
 
 ---
 
