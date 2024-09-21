@@ -54,6 +54,7 @@ Text can be emphasized by encapsulating words or phrases in a combination of sym
 | Strike-through | `~~2 tildes~~` | ~~2 tildes~~ |
 | Subscript | `<sub>Sub tag</sub> for subscript` | <sub>Sub tag</sub> for subscript |
 | Superscript | `<sup>Sup tag</sup> for superscript` | <sup>Sup tag</sup> for superscript |
+| Highlight | `<mark>Mark tag</mark> for highlighting` | `<mark>Mark tag</mark> for highlighting` |
 
 ---
 
