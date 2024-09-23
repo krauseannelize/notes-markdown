@@ -154,12 +154,14 @@ GitHub automatically create a clickable link when a valid URL is entered display
 
 ```
 https://github.com/krauseannelize
+
 [My Github page](hhttps://github.com/krauseannelize)
 ```
 
 ##### Output:
 
 https://github.com/krauseannelize
+
 [My Github page](hhttps://github.com/krauseannelize)
 
 <a name="links-reference" />
@@ -174,6 +176,7 @@ When you need to refer to the same URL multiple times, you can use reference lin
 [my-github]: https://github.com/krauseannelize
 
 See what I've been up to on Github [here](mygithub).
+
 Using the same definition [again](my-github).
 ```
 
@@ -182,6 +185,7 @@ Using the same definition [again](my-github).
 [my-github]: https://github.com/krauseannelize
 
 See what I've been up to on Github [here](mygithub).
+
 Using the same definition [again](my-github).
 
 <a name="links-tools" />
@@ -193,12 +197,12 @@ You can display a handy tooltip when someone hovers over the link with a mouse b
 ##### Input:
 
 ```
-[My Github page](hhttps://github.com/krauseannelize "See what I've been up to!")
+[My Github page](https://github.com/krauseannelize "See what I've been up to!")
 ```
 
 ##### Output:
 
-[My Github page](hhttps://github.com/krauseannelize "See what I've been up to!")
+[My Github page](https://github.com/krauseannelize "See what I've been up to!")
 
 <a name="links-email" />
 
@@ -236,7 +240,7 @@ Image stored in a subdirectory of the repository:
 ![The Markdown Logo](images/Markdown-Logo.png "The Markdown Logo")
 
 Image inserted from a URL:
-![The Markdown Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/175px-Markdown-mark.svg.png "The Markdown Logo")
+![The Markdown Logo](https://upload.wikimedia.org/wikipedia/commons/4/41/1280px_Markdown_with_White_Background.png "The Markdown Logo")
 ```
 
 ##### Output:
