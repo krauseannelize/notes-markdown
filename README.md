@@ -155,14 +155,14 @@ GitHub automatically create a clickable link when a valid URL is entered display
 ```
 https://github.com/krauseannelize
 
-[My Github page](hhttps://github.com/krauseannelize)
+[My Github page](https://github.com/krauseannelize)
 ```
 
 ##### Output:
 
 https://github.com/krauseannelize
 
-[My Github page](hhttps://github.com/krauseannelize)
+[My Github page](https://github.com/krauseannelize)
 
 <a name="links-reference" />
 
@@ -173,18 +173,18 @@ When you need to refer to the same URL multiple times, you can use reference lin
 ##### Input:
 
 ```
-[my-github]: https://github.com/krauseannelize
+[my-github]: <https://github.com/krauseannelize>
 
-See what I've been up to on Github [here](mygithub).
+See what I've been up to on Github [here](my-github).
 
 Using the same definition [again](my-github).
 ```
 
 ##### Output:
 
-[my-github]: https://github.com/krauseannelize
+[my-github]: <https://github.com/krauseannelize>
 
-See what I've been up to on Github [here](mygithub).
+See what I've been up to on Github [here](my-github).
 
 Using the same definition [again](my-github).
 
@@ -234,26 +234,31 @@ Always provide descriptive alt text within the square brackets for accessibility
 
 ```
 Image stored in repository's root directory:
-![The Markdown Logo](Markdown-Logo.png "The Markdown Logo")
+
+![The Octocat](octocat.jpg "The Octocat")
 
 Image stored in a subdirectory of the repository:
-![The Markdown Logo](images/Markdown-Logo.png "The Markdown Logo")
+
+![The Octocat](images/octocat.jpg "The Octocat")
 
 Image inserted from a URL:
-![The Markdown Logo](https://upload.wikimedia.org/wikipedia/commons/4/41/1280px_Markdown_with_White_Background.png "The Markdown Logo")
+
+![The Octocat](https://vectorportal.com/storage/octocat_by_rstovall_11895.jpg "The Octocat")
 ```
 
 ##### Output:
 
-
 Image stored in repository's root directory:
-![The Markdown Logo](Markdown-Logo.png "The Markdown Logo")
+
+![The Octocat](octocat.jpg "The Octocat")
 
 Image stored in a subdirectory of the repository:
-![The Markdown Logo](images/Markdown-Logo.png "The Markdown Logo")
+
+![The Octocat](images/octocat.jpg "The Octocat")
 
 Image inserted from a URL:
-![The Markdown Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/175px-Markdown-mark.svg.png "The Markdown Logo")
+
+![The Octocat](https://vectorportal.com/storage/octocat_by_rstovall_11895.jpg "The Octocat")
 
 ---
 
