@@ -47,7 +47,6 @@ A searchable list of emoji icons and their markdown syntax.
 | :bride_with_veil: | `:bride_with_veil:` | :business_suit_levitating: | `:business_suit_levitating:` | :bust_in_silhouette: | `:bust_in_silhouette:` |
 | :busts_in_silhouette: | `:busts_in_silhouette:` |
 
-
 [back to top](#emoji-markdown)
 
 ---
