@@ -26,7 +26,8 @@ A searchable list of emoji icons and their markdown syntax.
 | :anguished: | `:anguished:` | :astonished: | `:astonished:` | :blush: | `:blush:` |
 | :broken_heart: | `:broken_heart:` | :clown_face: | `:clown_face:` | :cold_face: | `:cold_face:` |
 | :cold_sweat: | `:cold_sweat:` | :confounded: | `:confounded:` | :confused: | `:confused:` |
-| :cowboy_hat_face: | `:cowboy_hat_face:` |
+| :cowboy_hat_face: | `:cowboy_hat_face:` | :cry: | `:cry:` | :crying_cat_face: | `:crying_cat_face:` |
+| :cupid: | `:cupid:` | :cursing_face: | `:cursing_face:` |
 
 [back to top](#emoji-markdown)
 
@@ -54,7 +55,8 @@ A searchable list of emoji icons and their markdown syntax.
 | :cop: | `:cop:` | :couple: | `:couple:` | :couple_with_heart: | `:couple_with_heart:` |
 | :couple_with_heart_man_man: | `:couple_with_heart_man_man:` | :couple_with_heart_woman_man: | `:couple_with_heart_woman_man:` | :couple_with_heart_woman_woman: | `:couple_with_heart_woman_woman:` |
 | :couplekiss: | `:couplekiss:` | :couplekiss_man_man: | `:couplekiss_man_man:` | :couplekiss_man_woman: | `:couplekiss_man_woman:` |
-| :couplekiss_woman_woman: | `:couplekiss_woman_woman:` |
+| :couplekiss_woman_woman: | `:couplekiss_woman_woman:` | :crossed_fingers: | `:crossed_fingers:` | :curly_haired_man: | `:curly_haired_man:` |
+| :curly_haired_woman: | `:curly_haired_woman:` |
 
 [back to top](#emoji-markdown)
 
@@ -85,7 +87,7 @@ A searchable list of emoji icons and their markdown syntax.
 | :cat2: | `:cat2:` | :cherry_blossom: | `:cherry_blossom:` | :chicken: | `:chicken:` |
 | :chipmunk: | `:chipmunk:` | :cockroach: | `:cockroach:` | :coral: | `:coral:` |
 | :cow: | `:cow:` | :cow2: | `:cow2:` | :crab: | `:crab:` |
-| :cricket: | `:cricket:` |
+| :cricket: | `:cricket:` | :crocodile: | `:crocodile:` |
 
 [back to top](#emoji-markdown)
 
@@ -106,7 +108,9 @@ A searchable list of emoji icons and their markdown syntax.
 | :cheese: | `:cheese:` | :cherries: | `:cherries:` | :chestnut: | `:chestnut:` |
 | :chocolate_bar: | `:chocolate_bar:` | :chopsticks: | `:chopsticks:` | :clinking_glasses: | `:clinking_glasses:` |
 | :cocktail: | `:cocktail:` | :coconut: | `:coconut:` | :coffee: | `:coffee:` |
-| :cookie: | `:cookie:` | :corn: | `:corn:` |
+| :cookie: | `:cookie:` | :corn: | `:corn:` | :croissant: | `:croissant:` |
+| :cucumber: | `:cucumber:` | :cup_with_straw: | `:cup_with_straw:` | :cupcake: | `:cupcake:` |
+| :curry: | `:curry:` | :custard: | `:custard:` | :cut_of_meat: | `:cut_of_meat:` |
 
 [back to top](#emoji-markdown)
 
@@ -137,7 +141,8 @@ A searchable list of emoji icons and their markdown syntax.
 | :closed_lock_with_key: | `:closed_lock_with_key:` | :coffin: | `:coffin:` | :coin: | `:coin:` |
 | :computer: | `:computer:` | :computer_mouse: | `:computer_mouse:` | :confetti_ball: | `:confetti_ball:` |
 | :control_knobs: | `:control_knobs:` | :couch_and_lamp: | `:couch_and_lamp:` | :crayon: | `:crayon:` |
-| :credit_card: | `:credit_card:` |
+| :credit_card: | `:credit_card:` | :crossed_swords: | `:crossed_swords:` | :crown: | `:crown:` |
+| :crutch: | `:crutch:` |
 
 [back to top](#emoji-markdown)
 
@@ -152,6 +157,7 @@ A searchable list of emoji icons and their markdown syntax.
 | :baseball: | `:baseball:` | :basketball: | `:basketball:` | :black_joker: | `:black_joker:` |
 | :bow_and_arrow: | `:bow_and_arrow:` | :bowling: | `:bowling:` | :boxing_glove: | `:boxing_glove:` |
 | :chess_pawn: | `:chess_pawn:` | :clubs: | `:clubs:` | :cricket_game: | `:cricket_game:` |
+| :crystal_ball: | `:crystal_ball:` | :curling_stone: | `:curling_stone:` |
 
 [back to top](#emoji-markdown)
 
@@ -182,6 +188,7 @@ A searchable list of emoji icons and their markdown syntax.
 | :cloud_with_lightning: | `:cloud_with_lightning:` | :cloud_with_lightning_and_rain: | `:cloud_with_lightning_and_rain:` | :cloud_with_rain: | `:cloud_with_rain:` |
 | :cloud_with_snow: | `:cloud_with_snow:` | :comet: | `:comet:` | :compass: | `:compass:` |
 | :construction: | `:construction:` | :convenience_store: | `:convenience_store:` | :crescent_moon: | `:crescent_moon:` |
+| :cyclone: | `:cyclone:` |
 
 [back to top](#emoji-markdown)
 
@@ -210,7 +217,8 @@ A searchable list of emoji icons and their markdown syntax.
 | :brown_heart: | `:brown_heart:` | :brown_square: | `:brown_square:` | :capital_abcd: | `:capital_abcd:` |
 | :chart: | `:chart:` | :chart_with_downwards_trend: | `:chart_with_downwards_trend:` | :chart_with_upwards_trend: | `:chart_with_upwards_trend:` |
 | :cinema: | `:cinema:` | :cl: | `:cl:` | :collision: | `:collision:` |
-| :cool: | `:cool:` | :copyright: | `:copyright:` |
+| :cool: | `:cool:` | :copyright: | `:copyright:` | :curly_loop: | `:curly_loop:` |
+| :currency_exchange: | `:currency_exchange:` | :customs: | `:customs:` |
 
 [back to top](#emoji-markdown)
 
@@ -238,7 +246,9 @@ A searchable list of emoji icons and their markdown syntax.
 | :checkered_flag: | `:checkered_flag:` | :clipperton_island: | `:clipperton_island:` | :cn: | `:cn:` |
 | :cocos_islands: | `:cocos_islands:` | :colombia: | `:colombia:` | :comoros: | `:comoros:` |
 | :congo_brazzaville: | `:congo_brazzaville:` | :congo_kinshasa: | `:congo_kinshasa:` | :cook_islands: | `:cook_islands:` |
-| :costa_rica: | `:costa_rica:` | :cote_divoire: | `:cote_divoire:` |
+| :costa_rica: | `:costa_rica:` | :cote_divoire: | `:cote_divoire:` | :croatia: | `:croatia:` |
+| :crossed_flags: | `:crossed_flags:` | :cuba: | `:cuba:` | :curacao: | `:curacao:` |
+| :cyprus: | `:cyprus:` | :czech_republic: | `:czech_republic:` |
 
 [back to top](#emoji-markdown)
 
