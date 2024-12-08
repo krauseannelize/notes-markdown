@@ -23,7 +23,8 @@ A searchable list of emoji icons and their markdown syntax.
 | Emoji | Markdown | Emoji | Markdown | Emoji | Markdown |
 | --- | --- | --- | --- | --- | --- |
 | :alien: | `:alien:` | :anger: | `:anger:` | :angry: | `:angry:` |
-| :anguished: | `:anguished:` | :astonished: | `:astonished:` |
+| :anguished: | `:anguished:` | :astonished: | `:astonished:` | :blush: | `:blush:` |
+| :broken_heart: | `:broken_heart:` |
 
 [back to top](#emoji-markdown)
 
@@ -35,7 +36,16 @@ A searchable list of emoji icons and their markdown syntax.
 | --- | --- | --- | --- | --- | --- |
 | :+1: | `:+1:` | :-1: | `:-1:` | :adult: | `:adult:` |
 | :anatomical_heart: | `:anatomical_heart:` | :angel: | `:angel:` | :artist: | `:artist:` |
-| :astronaut: | `:astronaut:` |
+| :astronaut: | `:astronaut:` | :baby: | `:baby:` | :bald_man: | `:bald_man:` |
+| :bald_woman: | `:bald_woman:` | :basketball_man: | `:basketball_man:` | :basketball_woman: | `:basketball_woman:` |
+| :bearded_person: | `:bearded_person:` | :bicyclist: | `:bicyclist:` | :biking_man: | `:biking_man:` |
+| :biking_woman: | `:biking_woman:` | :biting_lip: | `:biting_lip:` | :blond_haired_man: | `:blond_haired_man:` |
+| :blond_haired_person: | `:blond_haired_person:` | :blond_haired_woman: | `:blond_haired_woman:` | :blonde_woman: | `:blonde_woman:` |
+| :bouncing_ball_man: | `:bouncing_ball_man:` | :bouncing_ball_person: | `:bouncing_ball_person:` | :bouncing_ball_woman: | `:bouncing_ball_woman:` |
+| :bow: | `:bow:` | :bowing_man: | `:bowing_man:` | :bowing_woman: | `:bowing_woman:` |
+| :boy: | `:boy:` | :brain: | `:brain:` | :breast_feeding: | `:breast_feeding:` |
+| :bride_with_veil: | `:bride_with_veil:` | :business_suit_levitating: | `:business_suit_levitating:` | :bust_in_silhouette: | `:bust_in_silhouette:` |
+| :busts_in_silhouette: | `:busts_in_silhouette:` |
 
 [back to top](#emoji-markdown)
 
@@ -45,16 +55,23 @@ A searchable list of emoji icons and their markdown syntax.
 
 | Emoji | Markdown | Emoji | Markdown | Emoji | Markdown |
 | --- | --- | --- | --- | --- | --- |
-| :athletic_shoe: | `:athletic_shoe:` |
+| :athletic_shoe: | `:athletic_shoe:` | :ballet_shoes: | `:ballet_shoes:` | :bikini: | `:bikini:` |
+| :billed_cap: | `:billed_cap:` | :boot: | `:boot:` |
 
 [back to top](#emoji-markdown)
-___
+
+---
 
 ## Animals & Nature
 
 | Emoji | Markdown | Emoji | Markdown | Emoji | Markdown |
 | --- | --- | --- | --- | --- | --- |
-| :ant: | `:ant:` |
+| :ant: | `:ant:` | :baby_chick: | `:baby_chick:` | :badger: | `:badger:` |
+| :bamboo: | `:bamboo:` | :bat: | `:bat:` | :bear: | `:bear:` |
+| :beaver: | `:beaver:` | :bee: | `:bee:` | :beetle: | `:beetle:` |
+| :bird: | `:bird:` | :bison: | `:bison:` | :black_cat: | `:black_cat:` |
+| :blossom: | `:blossom:` | :blowfish: | `:blowfish:` | :boar: | `:boar:` |
+| :bouquet: | `:bouquet:` | :bug: | `:bug:` | :butterfly: | `:butterfly:` |
 
 [back to top](#emoji-markdown)
 
@@ -64,7 +81,13 @@ ___
 
 | Emoji | Markdown | Emoji | Markdown | Emoji | Markdown |
 | --- | --- | --- | --- | --- | --- |
-| :apple: | `:apple:` | :avocado: | `:avocado:` |
+| :apple: | `:apple:` | :avocado: | `:avocado:` | :bacon: | `:bacon:` |
+| :bagel: | `:bagel:` | :baguette_bread: | `:baguette_bread:` | :banana: | `:banana:` |
+| :beans: | `:beans:` | :beer: | `:beer:` | :beers: | `:beers:` |
+| :bell_pepper: | `:bell_pepper:` | :birthday: | `:birthday:` | :blueberries: | `:blueberries:` |
+| :bone: | `:bone:` | :bowl_with_spoon: | `:bowl_with_spoon:` | :bread: | `:bread:` |
+| :broccoli: | `:broccoli:` | :bubble_tea: | `:bubble_tea:` | :burrito: | `:burrito:` |
+| :butter: | `:butter:` |
 
 [back to top](#emoji-markdown)
 
@@ -77,6 +100,16 @@ ___
 | :abacus: | `:abacus:` | :accordion: | `:accordion:` | :adhesive_bandage: | `:adhesive_bandage:` |
 | :alarm_clock: | `:alarm_clock:` | :alembic: | `:alembic:` | :amphora: | `:amphora:` |
 | :anchor: | `:anchor:` | :artificial_satellite: | `:artificial_satellite:` | :axe: | `:axe:` |
+| :baby_bottle: | `:baby_bottle:` | :balance_scale: | `:balance_scale:` | :balloon: | `:balloon:` |
+| :ballot_box: | `:ballot_box:` | :banjo: | `:banjo:` | :basket: | `:basket:` |
+| :bath: | `:bath:` | :bathtub: | `:bathtub:` | :battery: | `:battery:` |
+| :bed: | `:bed:` | :bell: | `:bell:` | :bellhop_bell: | `:bellhop_bell:` |
+| :bento: | `:bento:` | :beverage_box: | `:beverage_box:` | :black_nib: | `:black_nib:` |
+| :blue_book: | `:blue_book:` | :bomb: | `:bomb:` | :book: | `:book:` |
+| :bookmark: | `:bookmark:` | :bookmark_tabs: | `:bookmark_tabs:` | :books: | `:books:` |
+| :boomerang: | `:boomerang:` | :bricks: | `:bricks:` | :briefcase: | `:briefcase:` |
+| :broom: | `:broom:` | :bubbles: | `:bubbles:` | :bucket: | `:bucket:` |
+| :bulb: | `:bulb:` |
 
 [back to top](#emoji-markdown)
 
@@ -87,7 +120,9 @@ ___
 | Emoji | Markdown | Emoji | Markdown | Emoji | Markdown |
 | --- | --- | --- | --- | --- | --- |
 | :1st_place_medal: | `:1st_place_medal:` | :2nd_place_medal: | `:2nd_place_medal:` | :3rd_place_medal: | `:3rd_place_medal:` |
-| :8ball: | `:8ball:` | :art: | `:art:` |
+| :8ball: | `:8ball:` | :art: | `:art:` | :badminton: | `:badminton:` | :baseball: | `:baseball:` |
+| :basketball: | `:basketball:` | :black_joker: | `:black_joker:` | :bow_and_arrow: | `:bow_and_arrow:` |
+| :bowling: | `:bowling:` | :boxing_glove: | `:boxing_glove:` |
 
 [back to top](#emoji-markdown)
 
@@ -98,7 +133,11 @@ ___
 | Emoji | Markdown | Emoji | Markdown | Emoji | Markdown |
 | --- | --- | --- | --- | --- | --- |
 | :aerial_tramway: | `:aerial_tramway:` | :airplane: | `:airplane:` | :ambulance: | `:ambulance:` |
-| :articulated_lorry: | `:articulated_lorry:` | :auto_rickshaw: | `:auto_rickshaw:` |
+| :articulated_lorry: | `:articulated_lorry:` | :auto_rickshaw: | `:auto_rickshaw:` | :bank: | `:bank:` |
+| :barber: | `:barber:` | :beach_umbrella: | `:beach_umbrella:` | :bike: | `:bike:` |
+| :blue_car: | `:blue_car:` | :boat: | `:boat:` | :bridge_at_night: | `:bridge_at_night:` |
+| :building_construction: | `:building_construction:` | :bullettrain_front: | `:bullettrain_front:` | :bullettrain_side: | `:bullettrain_side:` |
+| :bus: | `:bus:` | :busstop: | `:busstop:` |
 
 [back to top](#emoji-markdown)
 
@@ -117,7 +156,14 @@ ___
 | :arrow_right_hook: | `:arrow_right_hook:` | :arrow_up: | `:arrow_up:` | :arrow_up_down: | `:arrow_up_down:` |
 | :arrow_up_small: | `:arrow_up_small:` | :arrow_upper_left: | `:arrow_upper_left:` | :arrow_upper_right: | `:arrow_upper_right:` |
 | :arrows_clockwise: | `:arrows_clockwise:` | :arrows_counterclockwise: | `:arrows_counterclockwise:` | :asterisk: | `:asterisk:` |
-| :atm: | `:atm:` | :atom_symbol: | `:atom_symbol:` |
+| :atm: | `:atm:` | :atom_symbol: | `:atom_symbol:` | :b: | `:b:` |
+| :baby_symbol: | `:baby_symbol:` | :back: | `:back:` | :baggage_claim: | `:baggage_claim:` |
+| :ballot_box_with_check: | `:ballot_box_with_check:` | :bangbang: | `:bangbang:` | :bar_chart: | `:bar_chart:` |
+| :biohazard: | `:biohazard:` | :black_circle: | `:black_circle:` | :black_heart: | `:black_heart:` |
+| :black_large_square: | `:black_large_square:` | :black_medium_small_square: | `:black_medium_small_square:` | :black_medium_square: | `:black_medium_square:` |
+| :black_small_square: | `:black_small_square:` | :black_square_button: | `:black_square_button:` | :blue_heart: | `:blue_heart:` |
+| :blue_square: | `:blue_square:` | :boom: | `:boom:` | :brown_circle: | `:brown_circle:` |
+| :brown_heart: | `:brown_heart:` | :brown_square: | `:brown_square:` |
 
 [back to top](#emoji-markdown)
 
@@ -130,7 +176,14 @@ ___
 | :angola: | `:angola:` | :anguilla: | `:anguilla:` | :antarctica: | `:antarctica:` |
 | :antigua_barbuda: | `:antigua_barbuda:` | :argentina: | `:argentina:`| :armenia: | `:armenia:` |
 | :aruba: | `:aruba:` | :ascension_island: | `:ascension_island:` | :australia: | `:australia:` |
-| :austria: | `:austria:` | :azerbaijan: | `:azerbaijan:` |
+| :austria: | `:austria:` | :azerbaijan: | `:azerbaijan:` | :bahamas: | `:bahamas:` |
+| :bahrain: | `:bahrain:` | :bangladesh: | `:bangladesh:` | :barbados: | `:barbados:` |
+| :belarus: | `:belarus:` | :belgium: | `:belgium:` | :belize: | `:belize:` |
+| :benin: | `:benin:` | :bermuda: | `:bermuda:` | :bhutan: | `:bhutan:` |
+| :black_flag: | `:black_flag:` | :bolivia: | `:bolivia:` | :bosnia_herzegovina: | `:bosnia_herzegovina:` |
+| :botswana: | `:botswana:` | :bouvet_island: | `:bouvet_island:` | :brazil: | `:brazil:` |
+| :british_indian_ocean_territory: | `:british_indian_ocean_territory:` | :british_virgin_islands: | `:british_virgin_islands:` | :brunei: | `:brunei:` |
+| :bulgaria: | `:bulgaria:` | :burkina_faso: | `:burkina_faso:` | :burundi: | `:burundi:` |
 
 [back to top](#emoji-markdown)
 
@@ -140,7 +193,8 @@ ___
 
 | Emoji | Markdown | Emoji | Markdown | Emoji | Markdown |
 | --- | --- | --- | --- | --- | --- |
-| :accessibility: | `:accessibility:` | :atom: | `:atom:` |
+| :accessibility: | `:accessibility:` | :atom: | `:atom:` | :basecamp: | `:basecamp:` |
+| :basecampy: | `:basecampy:` | :bowtie: | `:bowtie:` |
 
 [back to top](#emoji-markdown)
 
@@ -151,6 +205,7 @@ ___
 | Emoji | Markdown | Meaning |
 | --- | --- | --- |
 | :accept: | `:accept:` | Japanese: "Accept" |
+| :beginner: | `:beginner:` | Japanese: "Beginner" |
 
 [back to top](#emoji-markdown)
 
