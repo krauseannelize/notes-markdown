@@ -45,7 +45,8 @@ A searchable list of emoji icons and their markdown syntax.
 | :bow: | `:bow:` | :bowing_man: | `:bowing_man:` | :bowing_woman: | `:bowing_woman:` |
 | :boy: | `:boy:` | :brain: | `:brain:` | :breast_feeding: | `:breast_feeding:` |
 | :bride_with_veil: | `:bride_with_veil:` | :business_suit_levitating: | `:business_suit_levitating:` | :bust_in_silhouette: | `:bust_in_silhouette:` |
-| :busts_in_silhouette: | `:busts_in_silhouette:` |
+| :busts_in_silhouette: | `:busts_in_silhouette:` | :call_me_hand: | `:call_me_hand:` | :cartwheeling: | `:cartwheeling:` |
+| :child: | `:child:` |
 
 [back to top](#emoji-markdown)
 
@@ -72,6 +73,8 @@ A searchable list of emoji icons and their markdown syntax.
 | :bird: | `:bird:` | :bison: | `:bison:` | :black_cat: | `:black_cat:` |
 | :blossom: | `:blossom:` | :blowfish: | `:blowfish:` | :boar: | `:boar:` |
 | :bouquet: | `:bouquet:` | :bug: | `:bug:` | :butterfly: | `:butterfly:` |
+| :cactus: | `:cactus:` | :camel: | `:camel:` | :cat: | `:cat:` |
+| :cat2: | `:cat2:` | :cherry_blossom: | `:cherry_blossom:` | :chicken: | `:chicken:` |
 
 [back to top](#emoji-markdown)
 
@@ -87,7 +90,9 @@ A searchable list of emoji icons and their markdown syntax.
 | :bell_pepper: | `:bell_pepper:` | :birthday: | `:birthday:` | :blueberries: | `:blueberries:` |
 | :bone: | `:bone:` | :bowl_with_spoon: | `:bowl_with_spoon:` | :bread: | `:bread:` |
 | :broccoli: | `:broccoli:` | :bubble_tea: | `:bubble_tea:` | :burrito: | `:burrito:` |
-| :butter: | `:butter:` |
+| :butter: | `:butter:` | :cake: | `:cake:` | :candy: | `:candy:` |
+| :canned_food: | `:canned_food:` | :carrot: | `:carrot:` | :champagne: | `:champagne:` |
+| :cheese: | `:cheese:` | :cherries: | `:cherries:` | :chestnut: | `:chestnut:` |
 
 [back to top](#emoji-markdown)
 
@@ -109,7 +114,10 @@ A searchable list of emoji icons and their markdown syntax.
 | :bookmark: | `:bookmark:` | :bookmark_tabs: | `:bookmark_tabs:` | :books: | `:books:` |
 | :boomerang: | `:boomerang:` | :bricks: | `:bricks:` | :briefcase: | `:briefcase:` |
 | :broom: | `:broom:` | :bubbles: | `:bubbles:` | :bucket: | `:bucket:` |
-| :bulb: | `:bulb:` |
+| :bulb: | `:bulb:` | :calendar: | `:calendar:` | :calling: | `:calling:` |
+| :camera: | `:camera:` | :camera_flash: | `:camera_flash:` | :candle: | `:candle:` |
+| :card_file_box: | `:card_file_box:` | :card_index: | `:card_index:` | :card_index_dividers: | `:card_index_dividers:` |
+| :carpentry_saw: | `:carpentry_saw:` | :cd: | `:cd:` | :chains: | `:chains:` | :chair: | `:chair:` |
 
 [back to top](#emoji-markdown)
 
@@ -122,7 +130,7 @@ A searchable list of emoji icons and their markdown syntax.
 | :1st_place_medal: | `:1st_place_medal:` | :2nd_place_medal: | `:2nd_place_medal:` | :3rd_place_medal: | `:3rd_place_medal:` |
 | :8ball: | `:8ball:` | :art: | `:art:` | :badminton: | `:badminton:` | :baseball: | `:baseball:` |
 | :basketball: | `:basketball:` | :black_joker: | `:black_joker:` | :bow_and_arrow: | `:bow_and_arrow:` |
-| :bowling: | `:bowling:` | :boxing_glove: | `:boxing_glove:` |
+| :bowling: | `:bowling:` | :boxing_glove: | `:boxing_glove:` | :chess_pawn: | `:chess_pawn:` |
 
 [back to top](#emoji-markdown)
 
@@ -137,7 +145,9 @@ A searchable list of emoji icons and their markdown syntax.
 | :barber: | `:barber:` | :beach_umbrella: | `:beach_umbrella:` | :bike: | `:bike:` |
 | :blue_car: | `:blue_car:` | :boat: | `:boat:` | :bridge_at_night: | `:bridge_at_night:` |
 | :building_construction: | `:building_construction:` | :bullettrain_front: | `:bullettrain_front:` | :bullettrain_side: | `:bullettrain_side:` |
-| :bus: | `:bus:` | :busstop: | `:busstop:` |
+| :bus: | `:bus:` | :busstop: | `:busstop:` | :camping: | `:camping:` |
+| :canoe: | `:canoe:` | :car: | `:car:` | :carousel_horse: | `:carousel_horse:` |
+| :children_crossing: | `:children_crossing:` |
 
 [back to top](#emoji-markdown)
 
@@ -163,7 +173,8 @@ A searchable list of emoji icons and their markdown syntax.
 | :black_large_square: | `:black_large_square:` | :black_medium_small_square: | `:black_medium_small_square:` | :black_medium_square: | `:black_medium_square:` |
 | :black_small_square: | `:black_small_square:` | :black_square_button: | `:black_square_button:` | :blue_heart: | `:blue_heart:` |
 | :blue_square: | `:blue_square:` | :boom: | `:boom:` | :brown_circle: | `:brown_circle:` |
-| :brown_heart: | `:brown_heart:` | :brown_square: | `:brown_square:` |
+| :brown_heart: | `:brown_heart:` | :brown_square: | `:brown_square:` | :capital_abcd: | `:capital_abcd:` |
+| :chart: | `:chart:` | :chart_with_downwards_trend: | `:chart_with_downwards_trend:` | :chart_with_upwards_trend: | `:chart_with_upwards_trend:` |
 
 [back to top](#emoji-markdown)
 
@@ -184,6 +195,11 @@ A searchable list of emoji icons and their markdown syntax.
 | :botswana: | `:botswana:` | :bouvet_island: | `:bouvet_island:` | :brazil: | `:brazil:` |
 | :british_indian_ocean_territory: | `:british_indian_ocean_territory:` | :british_virgin_islands: | `:british_virgin_islands:` | :brunei: | `:brunei:` |
 | :bulgaria: | `:bulgaria:` | :burkina_faso: | `:burkina_faso:` | :burundi: | `:burundi:` |
+| :cambodia: | `:cambodia:` | :cameroon: | `:cameroon:` | :canada: | `:canada:` |
+| :canary_islands: | `:canary_islands:` | :cape_verde: | `:cape_verde:` | :caribbean_netherlands: | `:caribbean_netherlands:` |
+| :cayman_islands: | `:cayman_islands:` | :central_african_republic: | `:central_african_republic:` | :ceuta_melilla: | `:ceuta_melilla:` |
+| :chad: | `:chad:` | :chile: | `:chile:` | :christmas_island: | `:christmas_island:` |
+| :checkered_flag: | `:checkered_flag:` |
 
 [back to top](#emoji-markdown)
 
