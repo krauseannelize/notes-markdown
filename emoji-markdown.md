@@ -24,7 +24,9 @@ A searchable list of emoji icons and their markdown syntax.
 | --- | --- | --- | --- | --- | --- |
 | :alien: | `:alien:` | :anger: | `:anger:` | :angry: | `:angry:` |
 | :anguished: | `:anguished:` | :astonished: | `:astonished:` | :blush: | `:blush:` |
-| :broken_heart: | `:broken_heart:` |
+| :broken_heart: | `:broken_heart:` | :clown_face: | `:clown_face:` | :cold_face: | `:cold_face:` |
+| :cold_sweat: | `:cold_sweat:` | :confounded: | `:confounded:` | :confused: | `:confused:` |
+| :cowboy_hat_face: | `:cowboy_hat_face:` |
 
 [back to top](#emoji-markdown)
 
@@ -46,7 +48,13 @@ A searchable list of emoji icons and their markdown syntax.
 | :boy: | `:boy:` | :brain: | `:brain:` | :breast_feeding: | `:breast_feeding:` |
 | :bride_with_veil: | `:bride_with_veil:` | :business_suit_levitating: | `:business_suit_levitating:` | :bust_in_silhouette: | `:bust_in_silhouette:` |
 | :busts_in_silhouette: | `:busts_in_silhouette:` | :call_me_hand: | `:call_me_hand:` | :cartwheeling: | `:cartwheeling:` |
-| :child: | `:child:` |
+| :child: | `:child:` | :clap: | `:clap:` | :climbing: | `:climbing:` |
+| :climbing_man: | `:climbing_man:` | :climbing_woman: | `:climbing_woman:` | :construction_worker: | `:construction_worker:` |
+| :construction_worker_man: | `:construction_worker_man:` | :construction_worker_woman: | `:construction_worker_woman:` | :cook: | `:cook:` |
+| :cop: | `:cop:` | :couple: | `:couple:` | :couple_with_heart: | `:couple_with_heart:` |
+| :couple_with_heart_man_man: | `:couple_with_heart_man_man:` | :couple_with_heart_woman_man: | `:couple_with_heart_woman_man:` | :couple_with_heart_woman_woman: | `:couple_with_heart_woman_woman:` |
+| :couplekiss: | `:couplekiss:` | :couplekiss_man_man: | `:couplekiss_man_man:` | :couplekiss_man_woman: | `:couplekiss_man_woman:` |
+| :couplekiss_woman_woman: | `:couplekiss_woman_woman:` |
 
 [back to top](#emoji-markdown)
 
@@ -57,7 +65,7 @@ A searchable list of emoji icons and their markdown syntax.
 | Emoji | Markdown | Emoji | Markdown | Emoji | Markdown |
 | --- | --- | --- | --- | --- | --- |
 | :athletic_shoe: | `:athletic_shoe:` | :ballet_shoes: | `:ballet_shoes:` | :bikini: | `:bikini:` |
-| :billed_cap: | `:billed_cap:` | :boot: | `:boot:` |
+| :billed_cap: | `:billed_cap:` | :boot: | `:boot:` | :coat: | `:coat:` |
 
 [back to top](#emoji-markdown)
 
@@ -75,6 +83,9 @@ A searchable list of emoji icons and their markdown syntax.
 | :bouquet: | `:bouquet:` | :bug: | `:bug:` | :butterfly: | `:butterfly:` |
 | :cactus: | `:cactus:` | :camel: | `:camel:` | :cat: | `:cat:` |
 | :cat2: | `:cat2:` | :cherry_blossom: | `:cherry_blossom:` | :chicken: | `:chicken:` |
+| :chipmunk: | `:chipmunk:` | :cockroach: | `:cockroach:` | :coral: | `:coral:` |
+| :cow: | `:cow:` | :cow2: | `:cow2:` | :crab: | `:crab:` |
+| :cricket: | `:cricket:` |
 
 [back to top](#emoji-markdown)
 
@@ -93,6 +104,9 @@ A searchable list of emoji icons and their markdown syntax.
 | :butter: | `:butter:` | :cake: | `:cake:` | :candy: | `:candy:` |
 | :canned_food: | `:canned_food:` | :carrot: | `:carrot:` | :champagne: | `:champagne:` |
 | :cheese: | `:cheese:` | :cherries: | `:cherries:` | :chestnut: | `:chestnut:` |
+| :chocolate_bar: | `:chocolate_bar:` | :chopsticks: | `:chopsticks:` | :clinking_glasses: | `:clinking_glasses:` |
+| :cocktail: | `:cocktail:` | :coconut: | `:coconut:` | :coffee: | `:coffee:` |
+| :cookie: | `:cookie:` | :corn: | `:corn:` |
 
 [back to top](#emoji-markdown)
 
@@ -117,7 +131,13 @@ A searchable list of emoji icons and their markdown syntax.
 | :bulb: | `:bulb:` | :calendar: | `:calendar:` | :calling: | `:calling:` |
 | :camera: | `:camera:` | :camera_flash: | `:camera_flash:` | :candle: | `:candle:` |
 | :card_file_box: | `:card_file_box:` | :card_index: | `:card_index:` | :card_index_dividers: | `:card_index_dividers:` |
-| :carpentry_saw: | `:carpentry_saw:` | :cd: | `:cd:` | :chains: | `:chains:` | :chair: | `:chair:` |
+| :carpentry_saw: | `:carpentry_saw:` | :cd: | `:cd:` | :chains: | `:chains:` |
+| :chair: | `:chair:` | :christmas_tree: | `:christmas_tree:` | :clamp: | `:clamp:` |
+| :clapper: | `:clapper:` | :clipboard: | `:clipboard:` | :closed_book: | `:closed_book:` |
+| :closed_lock_with_key: | `:closed_lock_with_key:` | :coffin: | `:coffin:` | :coin: | `:coin:` |
+| :computer: | `:computer:` | :computer_mouse: | `:computer_mouse:` | :confetti_ball: | `:confetti_ball:` |
+| :control_knobs: | `:control_knobs:` | :couch_and_lamp: | `:couch_and_lamp:` | :crayon: | `:crayon:` |
+| :credit_card: | `:credit_card:` |
 
 [back to top](#emoji-markdown)
 
@@ -128,9 +148,10 @@ A searchable list of emoji icons and their markdown syntax.
 | Emoji | Markdown | Emoji | Markdown | Emoji | Markdown |
 | --- | --- | --- | --- | --- | --- |
 | :1st_place_medal: | `:1st_place_medal:` | :2nd_place_medal: | `:2nd_place_medal:` | :3rd_place_medal: | `:3rd_place_medal:` |
-| :8ball: | `:8ball:` | :art: | `:art:` | :badminton: | `:badminton:` | :baseball: | `:baseball:` |
-| :basketball: | `:basketball:` | :black_joker: | `:black_joker:` | :bow_and_arrow: | `:bow_and_arrow:` |
-| :bowling: | `:bowling:` | :boxing_glove: | `:boxing_glove:` | :chess_pawn: | `:chess_pawn:` |
+| :8ball: | `:8ball:` | :art: | `:art:` | :badminton: | `:badminton:` |
+| :baseball: | `:baseball:` | :basketball: | `:basketball:` | :black_joker: | `:black_joker:` |
+| :bow_and_arrow: | `:bow_and_arrow:` | :bowling: | `:bowling:` | :boxing_glove: | `:boxing_glove:` |
+| :chess_pawn: | `:chess_pawn:` | :clubs: | `:clubs:` | :cricket_game: | `:cricket_game:` |
 
 [back to top](#emoji-markdown)
 
@@ -147,7 +168,20 @@ A searchable list of emoji icons and their markdown syntax.
 | :building_construction: | `:building_construction:` | :bullettrain_front: | `:bullettrain_front:` | :bullettrain_side: | `:bullettrain_side:` |
 | :bus: | `:bus:` | :busstop: | `:busstop:` | :camping: | `:camping:` |
 | :canoe: | `:canoe:` | :car: | `:car:` | :carousel_horse: | `:carousel_horse:` |
-| :children_crossing: | `:children_crossing:` |
+| :children_crossing: | `:children_crossing:` | :church: | `:church:` | :circus_tent: | `:circus_tent:` |
+| :city_sunrise: | `:city_sunrise:` | :city_sunset: | `:city_sunset:` | :cityscape: | `:cityscape:` |
+| :classical_building: | `:classical_building:` | :clock1: | `:clock1:` | :clock130: | `:clock130:` |
+| :clock2: | `:clock2:` | :clock230: | `:clock230:` | :clock3: | `:clock3:` |
+| :clock330: | `:clock330:` | :clock4: | `:clock4:` | :clock430: | `:clock430:` |
+| :clock5: | `:clock5:` | :clock530: | `:clock530:` | :clock6: | `:clock6:` |
+| :clock630: | `:clock630:` | :clock7: | `:clock7:` | :clock730: | `:clock730:` |
+| :clock8: | `:clock8:` | :clock830: | `:clock830:` | :clock9: | `:clock9:` |
+| :clock930: | `:clock930:` | :clock10: | `:clock10:` | :clock1030: | `:clock1030:` |
+| :clock11: | `:clock11:` | :clock1130: | `:clock1130:` | :clock12: | `:clock12:` |
+| :clock1230: | `:clock1230:` | :closed_umbrella: | `:closed_umbrella:` | :cloud: | `:cloud:` |
+| :cloud_with_lightning: | `:cloud_with_lightning:` | :cloud_with_lightning_and_rain: | `:cloud_with_lightning_and_rain:` | :cloud_with_rain: | `:cloud_with_rain:` |
+| :cloud_with_snow: | `:cloud_with_snow:` | :comet: | `:comet:` | :compass: | `:compass:` |
+| :construction: | `:construction:` | :convenience_store: | `:convenience_store:` | :crescent_moon: | `:crescent_moon:` |
 
 [back to top](#emoji-markdown)
 
@@ -175,6 +209,8 @@ A searchable list of emoji icons and their markdown syntax.
 | :blue_square: | `:blue_square:` | :boom: | `:boom:` | :brown_circle: | `:brown_circle:` |
 | :brown_heart: | `:brown_heart:` | :brown_square: | `:brown_square:` | :capital_abcd: | `:capital_abcd:` |
 | :chart: | `:chart:` | :chart_with_downwards_trend: | `:chart_with_downwards_trend:` | :chart_with_upwards_trend: | `:chart_with_upwards_trend:` |
+| :cinema: | `:cinema:` | :cl: | `:cl:` | :collision: | `:collision:` |
+| :cool: | `:cool:` | :copyright: | `:copyright:` |
 
 [back to top](#emoji-markdown)
 
@@ -199,7 +235,10 @@ A searchable list of emoji icons and their markdown syntax.
 | :canary_islands: | `:canary_islands:` | :cape_verde: | `:cape_verde:` | :caribbean_netherlands: | `:caribbean_netherlands:` |
 | :cayman_islands: | `:cayman_islands:` | :central_african_republic: | `:central_african_republic:` | :ceuta_melilla: | `:ceuta_melilla:` |
 | :chad: | `:chad:` | :chile: | `:chile:` | :christmas_island: | `:christmas_island:` |
-| :checkered_flag: | `:checkered_flag:` |
+| :checkered_flag: | `:checkered_flag:` | :clipperton_island: | `:clipperton_island:` | :cn: | `:cn:` |
+| :cocos_islands: | `:cocos_islands:` | :colombia: | `:colombia:` | :comoros: | `:comoros:` |
+| :congo_brazzaville: | `:congo_brazzaville:` | :congo_kinshasa: | `:congo_kinshasa:` | :cook_islands: | `:cook_islands:` |
+| :costa_rica: | `:costa_rica:` | :cote_divoire: | `:cote_divoire:` |
 
 [back to top](#emoji-markdown)
 
@@ -222,6 +261,7 @@ A searchable list of emoji icons and their markdown syntax.
 | --- | --- | --- |
 | :accept: | `:accept:` | Japanese: "Accept" |
 | :beginner: | `:beginner:` | Japanese: "Beginner" |
+| :congratulations: | `:congratulations:` | Japanese: "Congratulations" |
 
 [back to top](#emoji-markdown)
 
