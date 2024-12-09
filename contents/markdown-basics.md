@@ -22,6 +22,7 @@
    - [Formatting text inside tables](#formatting-text-inside-tables)
 1. [Cross-referencing](#cross-referencing)
    - [Referencing document sections](#referencing-document-sections)
+   - [Custom anchors](#custom-anchors)
 
 ---
 
