@@ -1,4 +1,4 @@
-# Emoji Markdown
+# Emojis in Markdown
 
 A searchable list of emoji icons and their markdown syntax.
 
