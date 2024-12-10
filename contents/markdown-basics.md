@@ -2,11 +2,12 @@
 
 1. [Paragraphs](#paragraphs)
 1. [Emphasis](#emphasis)
+1. [Escaping special characters](#escaping-special-characters)
 1. [Headings](#headings)
 1. [Horizontal Line](#horizontal-line)
 1. [Links](#links)
    - [Create a link](#create-a-link)
-   - [Reference links](#reference-links)
+   - [Relative links](#relative-links)
    - [Add tooltips](#add-tooltips)
    - [Convert URLs or email addresses to links](#convert-urls-or-email-addresses-to-links)
 1. [Images](#images)
@@ -15,6 +16,7 @@
    - [Unordered lists](#unordered-lists)
    - [Nested lists](#nested-lists)
    - [Task lists](#task-lists)
+1. [Quoting code](#quoting-code)
 1. [Blockquotes](#blockquotes)
 1. [Tables](#tables)
    - [Creating tables](#creating-tables)
@@ -66,6 +68,28 @@ Text can be emphasized by encapsulating words or phrases in a combination of sym
 | Strike-through | `~~2 tildes~~` | ~~2 tildes~~ |
 | Subscript | `<sub>Sub tag</sub> for subscript` | <sub>Sub tag</sub> for subscript |
 | Superscript | `<sup>Sup tag</sup> for superscript` | <sup>Sup tag</sup> for superscript |
+
+---
+
+[back to top](#markdown-basics)
+
+---
+
+## Escaping special characters
+
+In Markdown, special characters such as <, >, &, and # have specific meanings and can’t be used literally. To escape special characters, you can use a backslash ( \ ) before the character you want to escape.
+
+***Syntax***
+
+```markdown
+\# This is not a heading
+```
+
+---
+
+***Rendered Output***
+
+\# This is not a heading
 
 ---
 
@@ -170,29 +194,21 @@ https://github.com/krauseannelize
 
 ---
 
-### Reference links
+### Relative links
 
-When you need to refer to the same URL multiple times, you can use reference links to create links that refer to specific definitions. You can do this by placing the definition in square brackets ( [ ] ), followed by a colon ( \: ), a space and then the URL as is or enclosing it in left and right angle brackets ( < > ). Refer to the reference link by inserting the text you would like to display in square brackets ( [ ] ) followed by round brackets ( ( ) ) containing the definition.
+To navigate to other files in your repository, you can insert relative links. A relative link is a link that is relative to the current file. In square brackets ( [] ) add the text you would like to display and in round brackets ( () ) add the path to the file. The path of the link will be relative to the current file. Links starting with `/` will be relative to the repository root.
 
 ***Syntax***
 
 ```markdown
-[my-github]: <https://github.com/krauseannelize>
-
-See what I've been up to on Github [here](my-github).
-
-Using the same definition [again](my-github).
+[Check out Emojis in Markdown](/contents/emojis-in-markdown.md)
 ```
 
 ---
 
 ***Rendered Output***
 
-[my-github]: <https://github.com/krauseannelize>
-
-See what I've been up to on Github [here](../my-github).
-
-Using the same definition [again](../my-github).
+[Check out Emojis in Markdown](/contents/emojis-in-markdown.md)
 
 ---
 
@@ -459,6 +475,61 @@ Keep track of tasks with checked or unchecked boxes by creating a task list. Add
 - [ ] Task item 1
 - [x] Task item 2
 - [ ] Task item 3
+
+---
+
+[back to top](#markdown-basics)
+
+---
+
+## Quoting code
+
+### Inline
+
+When you want to highlight a small snippet of code within a paragraph, you can use single backticks ( \` \` ) around the code.
+
+***Syntax***
+
+```markdown
+Some Python functions that are very useful is `print()`, `type()`, `range()` and `sorted()`.
+```
+
+---
+
+***Rendered Output***
+
+Some Python functions that are very useful is `print()`, `type()`, `range()` and `sorted()`.
+
+---
+
+[back to top](#markdown-basics)
+
+---
+
+### Code blocks
+
+Code blocks are used to display larger blocks of code in a formatted, readable manner. They are formatted using triple backticks (\`\`\`) before and after the code block.
+
+***Syntax***
+
+```markdown
+```python
+friends = ['Yennefer', 'Geralt', 'Jaskier', 'Triss']
+for friend in friends:
+    print("Toss a coin to " + friend)
+print()```
+```
+
+---
+
+***Rendered Output***
+
+```python
+friends = ['Yennefer', 'Geralt', 'Jaskier', 'Triss']
+for friend in friends:
+    print("Toss a coin to " + friend)
+print()
+```
 
 ---
 
