@@ -30,9 +30,10 @@ A searchable list of emoji icons and their markdown syntax.
 | :cupid: | `:cupid:` | :cursing_face: | `:cursing_face:` | :dash: | `:dash:` |
 | :disappointed: | `:disappointed:` | :disappointed_relieved: | `:disappointed_relieved:` | :disguised_face: | `:disguised_face:` |
 | :dizzy_face: | `:dizzy_face:` | :dotted_line_face: | `:dotted_line_face:` | :dragon_face: | `:dragon_face:` |
-| :drooling_face: | `:drooling_face:` |
+| :drooling_face: | `:drooling_face:` | :exploding_head: | `:exploding_head:` | :expressionless: | `:expressionless:` |
+| :eye_speech_bubble: | `:eye_speech_bubble:` |
 
-[back to top](#emojis-in-markdown)
+[Back to Top](#emojis-in-markdown)
 
 ---
 
@@ -62,8 +63,11 @@ A searchable list of emoji icons and their markdown syntax.
 | :curly_haired_woman: | `:curly_haired_woman:` | :dancer: | `:dancer:` | :dancers: | `:dancers:` |
 | :dancing_men: | `:dancing_men:` | :dancing_women: | `:dancing_women:` | :deaf_man: | `:deaf_man:` |
 | :deaf_person: | `:deaf_person:` | :deaf_woman: | `:deaf_woman:` | :detective: | `:detective:` |
+| :ear: | `:ear:` | :ear_with_hearing_aid: | `:ear_with_hearing_aid:` | :elf: | `:elf:` |
+| :elf_man: | `:elf_man:` | :elf_woman: | `:elf_woman:` | :eye: | `:eye:` |
+| :eyes: | `:eyes:` |
 
-[back to top](#emojis-in-markdown)
+[Back to Top](#emojis-in-markdown)
 
 ---
 
@@ -73,9 +77,9 @@ A searchable list of emoji icons and their markdown syntax.
 | --- | --- | --- | --- | --- | --- |
 | :athletic_shoe: | `:athletic_shoe:` | :ballet_shoes: | `:ballet_shoes:` | :bikini: | `:bikini:` |
 | :billed_cap: | `:billed_cap:` | :boot: | `:boot:` | :coat: | `:coat:` |
-| :dark_sunglasses: | `:dark_sunglasses:` | :dress: | `:dress:` |
+| :dark_sunglasses: | `:dark_sunglasses:` | :dress: | `:dress:` | :eyeglasses: | `:eyeglasses:` |
 
-[back to top](#emojis-in-markdown)
+[Back to Top](#emojis-in-markdown)
 
 ---
 
@@ -97,9 +101,10 @@ A searchable list of emoji icons and their markdown syntax.
 | :deer: | `:deer:` | :dodo: | `:dodo:` | :dog: | `:dog:` |
 | :dog2: | `:dog2:` | :dolphin: | `:dolphin:` | :donkey: | `:donkey:` |
 | :dove: | `:dove:` | :dragon: | `:dragon:` | :dromedary_camel: | `:dromedary_camel:` |
-| :duck: | `:duck:` |
+| :duck: | `:duck:` | :eagle: | `:eagle:` | :ear_of_rice: | `:ear_of_rice:` |
+| :elephant: | `:elephant:` | :empty_nest: | `:empty_nest:` | :evergreen_tree: | `:evergreen_tree:` |
 
-[back to top](#emojis-in-markdown)
+[Back to Top](#emojis-in-markdown)
 
 ---
 
@@ -122,8 +127,9 @@ A searchable list of emoji icons and their markdown syntax.
 | :cucumber: | `:cucumber:` | :cup_with_straw: | `:cup_with_straw:` | :cupcake: | `:cupcake:` |
 | :curry: | `:curry:` | :custard: | `:custard:` | :cut_of_meat: | `:cut_of_meat:` |
 | :dango: | `:dango:` | :doughnut: | `:doughnut:` | :dumpling: | `:dumpling:` |
+| :egg: | `:egg:` | :eggplant: | `:eggplant:` |
 
-[back to top](#emojis-in-markdown)
+[Back to Top](#emojis-in-markdown)
 
 ---
 
@@ -157,9 +163,11 @@ A searchable list of emoji icons and their markdown syntax.
 | :desktop_computer: | `:desktop_computer:` | :diya_lamp: | `:diya_lamp:` | :dizzy: | `:dizzy:` |
 | :dna: | `:dna:` | :dollar: | `:dollar:` | :dolls: | `:dolls:` |
 | :door: | `:door:` | :drop_of_blood: | `:drop_of_blood:` | :droplet: | `:droplet:` |
-| :drum: | `:drum:` | :dvd: | `:dvd:` |
+| :drum: | `:drum:` | :dvd: | `:dvd:` | :e-mail: | `:e-mail:` |
+| :electric_plug: | `:electric_plug:` | :envelope: | `:envelope:` | :envelope_with_arrow: | `:envelope_with_arrow:` |
+| :euro: | `:euro:` |
 
-[back to top](#emojis-in-markdown)
+[Back to Top](#emojis-in-markdown)
 
 ---
 
@@ -175,7 +183,7 @@ A searchable list of emoji icons and their markdown syntax.
 | :crystal_ball: | `:crystal_ball:` | :curling_stone: | `:curling_stone:` | :dart: | `:dart:` |
 | :diving_mask: | `:diving_mask:` |
 
-[back to top](#emojis-in-markdown)
+[Back to Top](#emojis-in-markdown)
 
 ---
 
@@ -205,9 +213,11 @@ A searchable list of emoji icons and their markdown syntax.
 | :cloud_with_snow: | `:cloud_with_snow:` | :comet: | `:comet:` | :compass: | `:compass:` |
 | :construction: | `:construction:` | :convenience_store: | `:convenience_store:` | :crescent_moon: | `:crescent_moon:` |
 | :cyclone: | `:cyclone:` | :department_store: | `:department_store:` | :derelict_house: | `:derelict_house:` |
-| :desert: | `:desert:` | :desert_island: | `:desert_island:` |
+| :desert: | `:desert:` | :desert_island: | `:desert_island:` | :earth_africa: | `:earth_africa:` |
+| :earth_americas: | `:earth_americas:` | :earth_asia: | `:earth_asia:` | :elevator: | `:elevator:` |
+| :european_castle: | `:european_castle:` | :european_post_office: | `:european_post_office:` |
 
-[back to top](#emojis-in-markdown)
+[Back to Top](#emojis-in-markdown)
 
 ---
 
@@ -236,41 +246,169 @@ A searchable list of emoji icons and their markdown syntax.
 | :cinema: | `:cinema:` | :cl: | `:cl:` | :collision: | `:collision:` |
 | :cool: | `:cool:` | :copyright: | `:copyright:` | :curly_loop: | `:curly_loop:` |
 | :currency_exchange: | `:currency_exchange:` | :customs: | `:customs:` | :diamond_shape_with_a_dot_inside: | `:diamond_shape_with_a_dot_inside:` |
-| :diamonds: | `:diamonds:` | :do_not_litter: | `:do_not_litter:` |
+| :diamonds: | `:diamonds:` | :do_not_litter: | `:do_not_litter:` | :eight: | `:eight:` |
+| :eight_pointed_black_star: | `:eight_pointed_black_star:` | :eight_spoked_asterisk: | `:eight_spoked_asterisk:` | :eject_button: | `:eject_button:` |
+| :end: | `:end:` | :exclamation: | `:exclamation:` |
 
-[back to top](#emojis-in-markdown)
+[Back to Top](#emojis-in-markdown)
+
+---
 
 ## Flags
 
-| Emoji | Markdown | Emoji | Markdown | Emoji | Markdown |
-| --- | --- | --- | --- | --- | --- |
-| :afghanistan: | `:afghanistan:` | :aland_islands: | `:aland_islands:` | :albania: | `:albania:` |
-| :algeria: | `:algeria:` | :american_samoa: | `:american_samoa:` | :andorra: | `:andorra:` |
-| :angola: | `:angola:` | :anguilla: | `:anguilla:` | :antarctica: | `:antarctica:` |
-| :antigua_barbuda: | `:antigua_barbuda:` | :argentina: | `:argentina:`| :armenia: | `:armenia:` |
-| :aruba: | `:aruba:` | :ascension_island: | `:ascension_island:` | :australia: | `:australia:` |
-| :austria: | `:austria:` | :azerbaijan: | `:azerbaijan:` | :bahamas: | `:bahamas:` |
-| :bahrain: | `:bahrain:` | :bangladesh: | `:bangladesh:` | :barbados: | `:barbados:` |
-| :belarus: | `:belarus:` | :belgium: | `:belgium:` | :belize: | `:belize:` |
-| :benin: | `:benin:` | :bermuda: | `:bermuda:` | :bhutan: | `:bhutan:` |
-| :black_flag: | `:black_flag:` | :bolivia: | `:bolivia:` | :bosnia_herzegovina: | `:bosnia_herzegovina:` |
-| :botswana: | `:botswana:` | :bouvet_island: | `:bouvet_island:` | :brazil: | `:brazil:` |
-| :british_indian_ocean_territory: | `:british_indian_ocean_territory:` | :british_virgin_islands: | `:british_virgin_islands:` | :brunei: | `:brunei:` |
-| :bulgaria: | `:bulgaria:` | :burkina_faso: | `:burkina_faso:` | :burundi: | `:burundi:` |
-| :cambodia: | `:cambodia:` | :cameroon: | `:cameroon:` | :canada: | `:canada:` |
-| :canary_islands: | `:canary_islands:` | :cape_verde: | `:cape_verde:` | :caribbean_netherlands: | `:caribbean_netherlands:` |
-| :cayman_islands: | `:cayman_islands:` | :central_african_republic: | `:central_african_republic:` | :ceuta_melilla: | `:ceuta_melilla:` |
-| :chad: | `:chad:` | :chile: | `:chile:` | :christmas_island: | `:christmas_island:` |
-| :checkered_flag: | `:checkered_flag:` | :clipperton_island: | `:clipperton_island:` | :cn: | `:cn:` |
-| :cocos_islands: | `:cocos_islands:` | :colombia: | `:colombia:` | :comoros: | `:comoros:` |
-| :congo_brazzaville: | `:congo_brazzaville:` | :congo_kinshasa: | `:congo_kinshasa:` | :cook_islands: | `:cook_islands:` |
-| :costa_rica: | `:costa_rica:` | :cote_divoire: | `:cote_divoire:` | :croatia: | `:croatia:` |
-| :crossed_flags: | `:crossed_flags:` | :cuba: | `:cuba:` | :curacao: | `:curacao:` |
-| :cyprus: | `:cyprus:` | :czech_republic: | `:czech_republic:` | :de: | `:de:` |
-| :denmark: | `:denmark:` | :diego_garcia: | `:diego_garcia:` | :djibouti: | `:djibouti:` |
-| :dominica: | `:dominica:` | :dominican_republic: | `:dominican_republic:` |
+1. [Africa](#africa)
+2. [Americas](#americas)
+3. [Asia](#asia)
+4. [Europe](#europe)
+5. [Oceania](#oceania)
+6. [Islands](#islands)
+7. [Symbolic](#symbolic)
 
-[back to top](#emojis-in-markdown)
+---
+
+### Africa
+
+| Country | Emoji | Markdown |
+| --- | --- | --- |
+| Algeria | :algeria: | `:algeria:` |
+| Angola | :angola: | `:angola:` |
+| Benin | :benin: | `:benin:` |
+| Cameroon | :cameroon: | `:cameroon:` |
+| Central African Republic | :central_african_republic: | `:central_african_republic:` |
+| Chad | :chad: | `:chad:` |
+| Congo | :congo_brazzaville: | `:congo_brazzaville:` |
+| Democratic Republic of the Congo | :congo_kinshasa: | `:congo_kinshasa:` |
+| Djibouti | :djibouti: | `:djibouti:` |
+| Egypt | :egypt: | `:egypt:` |
+| Equatorial Guinea | :equatorial_guinea: | `:equatorial_guinea:` |
+| Eritrea | :eritrea: | `:eritrea:` |
+| Ethiopia | :ethiopia: | `:ethiopia:` |
+| Ivory Coast | :cote_divoire: | `:cote_divoire:` |
+
+[Back to Flags](#flags) or [Back to Top](#emojis-in-markdown)
+
+---
+
+### Americas
+
+| Country | Emoji | Markdown |
+| --- | --- | --- |
+| Argentina | :argentina: | `:argentina:`|
+| Bolivia | :bolivia: | `:bolivia:` |
+| Brazil | :brazil: | `:brazil:` |
+| Canada | :canada: | `:canada:` |
+| Chile | :chile: | `:chile:` |
+| Colombia | :colombia: | `:colombia:` |
+| Costa Rica | :costa_rica: | `:costa_rica:` |
+| Ecuador | :ecuador: | `:ecuador:` |
+| El Salvador | :el_salvador: | `:el_salvador:` |
+
+[Back to Flags](#flags) or [Back to Top](#emojis-in-markdown)
+
+---
+
+### Asia
+
+| Country | Emoji | Markdown |
+| --- | --- | --- |
+| Afghanistan | :afghanistan: | `:afghanistan:` |
+| Armenia | :armenia: | `:armenia:` |
+| Azerbaijan | :azerbaijan: | `:azerbaijan:` |
+| Bahrain | :bahrain: | `:bahrain:` |
+| Bangladesh | :bangladesh: | `:bangladesh:` |
+| Bhutan | :bhutan: | `:bhutan:` |
+| Brunei | :brunei: | `:brunei:` |
+| Botswana | :botswana: | `:botswana:` |
+| Burkina Faso | :burkina_faso: | `:burkina_faso:` |
+| Burundi | :burundi: | `:burundi:` |
+| Cambodia | :cambodia: | `:cambodia:` |
+| China | :cn: | `:cn:` |
+
+[Back to Flags](#flags) or [Back to Top](#emojis-in-markdown)
+
+---
+
+### Europe
+
+| Country | Emoji | Markdown |
+| --- | --- | --- |
+| Albania | :albania: | `:albania:` |
+| Andorra | :andorra: | `:andorra:` |
+| Austria | :austria: | `:austria:` |
+| Belarus | :belarus: | `:belarus:` |
+| Belgium | :belgium: | `:belgium:` |
+| Bosnia Herzegovina | :bosnia_herzegovina: | `:bosnia_herzegovina:` |
+| Bulgaria | :bulgaria: | `:bulgaria:` |
+| Croatia | :croatia: | `:croatia:` |
+| Czech Republic | :czech_republic: | `:czech_republic:` |
+| Denmark | :denmark: | `:denmark:` |
+| England | :england: | `:england:` |
+| Estonia | :estonia: | `:estonia:` |
+| Germany | :de: | `:de:` |
+| Spain | :es: | `:es:` |
+
+[Back to Flags](#flags) or [Back to Top](#emojis-in-markdown)
+
+---
+
+### Oceania
+
+| Country | Emoji | Markdown |
+| --- | --- | --- |
+| Antarctica | :antarctica: | `:antarctica:` |
+| Australia | :australia: | `:australia:` |
+
+[Back to Flags](#flags) or [Back to Top](#emojis-in-markdown)
+
+---
+
+### Islands
+
+| Body of Water | Country | Emoji | Markdown |
+| --- | --- | --- | --- |
+| Atlantic Ocean | Ascension Island | :ascension_island: | `:ascension_island:` |
+| Atlantic Ocean | Bouvet Island | :bouvet_island: | `:bouvet_island:` |
+| Atlantic Ocean | Canary Islands | :canary_islands: | `:canary_islands:` |
+| Atlantic Ocean | Cape Verde | :cape_verde: | `:cape_verde:` |
+| Baltic Sea | Åland Islands | :aland_islands: | `:aland_islands:` |
+| Caribbean Sea | Anguilla | :anguilla: | `:anguilla:` |
+| Caribbean Sea | Antigua and Barbuda | :antigua_barbuda: | `:antigua_barbuda:` |
+| Caribbean Sea | Aruba | :aruba: | `:aruba:` |
+| Caribbean Sea | The Bahamas | :bahamas: | `:bahamas:` |
+| Caribbean Sea | Barbados | :barbados: | `:barbados:` |
+| Caribbean Sea | Belize | :belize: | `:belize:` |
+| Caribbean Sea | Bermuda | :bermuda: | `:bermuda:` |
+| Caribbean Sea | British Virgin Islands | :british_virgin_islands: | `:british_virgin_islands:` |
+| Caribbean Sea | Caribbean Netherlands | :caribbean_netherlands: | `:caribbean_netherlands:` |
+| Caribbean Sea | Cayman Islands | :cayman_islands: | `:cayman_islands:` |
+| Caribbean Sea | Cuba | :cuba: | `:cuba:` |
+| Caribbean Sea | Curaçao | :curacao: | `:curacao:` |
+| Caribbean Sea | Dominica | :dominica: | `:dominica:` |
+| Caribbean Sea | Dominican Republic | :dominican_republic: | `:dominican_republic:` |
+| Indian Ocean | British Indian Ocean Territory | :british_indian_ocean_territory: | `:british_indian_ocean_territory:` |
+| Indian Ocean | Comoros | :comoros: | `:comoros:` |
+| Indian Ocean | Christmas Island | :christmas_island: | `:christmas_island:` |
+| Indian Ocean | Diego Garcia | :diego_garcia: | `:diego_garcia:` |
+| Mediterranean Sea | Cyprus | :cyprus: | `:cyprus:` |
+| Pacific Ocean | American Samoa | :american_samoa: | `:american_samoa:` |
+| Pacific Ocean | Clipperton Island | :clipperton_island: | `:clipperton_island:` |
+| Pacific Ocean | Cocos Island | :cocos_islands: | `:cocos_islands:` |
+| Pacific Ocean | Cook Islands | :cook_islands: | `:cook_islands:` |
+
+[Back to Flags](#flags) or [Back to Top](#emojis-in-markdown)
+
+---
+
+### Symbolic
+
+| Country | Emoji | Markdown |
+| --- | --- | --- |
+| Black | :black_flag: | `:black_flag:` |
+| Checkered | :checkered_flag: | `:checkered_flag:` |
+| Crossed | :crossed_flags: | `:crossed_flags:` |
+| European Union | :eu: | `:eu:` or `:european_union:` |
+
+[Back to Flags](#flags) or [Back to Top](#emojis-in-markdown)
 
 ---
 
@@ -280,8 +418,9 @@ A searchable list of emoji icons and their markdown syntax.
 | --- | --- | --- | --- | --- | --- |
 | :accessibility: | `:accessibility:` | :atom: | `:atom:` | :basecamp: | `:basecamp:` |
 | :basecampy: | `:basecampy:` | :bowtie: | `:bowtie:` | :dependabot: | `:dependabot:` |
+| :electron: | `:electron:` |
 
-[back to top](#emojis-in-markdown)
+[Back to Top](#emojis-in-markdown)
 
 ---
 
@@ -293,7 +432,7 @@ A searchable list of emoji icons and their markdown syntax.
 | :beginner: | `:beginner:` | Japanese: "Beginner" |
 | :congratulations: | `:congratulations:` | Japanese: "Congratulations" |
 
-[back to top](#emojis-in-markdown)
+[Back to Top](#emojis-in-markdown)
 
 ---
 
@@ -314,4 +453,4 @@ A searchable list of emoji icons and their markdown syntax.
 | Sagittarius | :sagittarius: | `:sagittarius:` | November 22 — December 21 |
 | Capricorn | :capricorn: | `:capricorn:` | December 22 — January 19 |
 
-[back to top](#emojis-in-markdown)
+[Back to Top](#emojis-in-markdown)
