@@ -27,9 +27,12 @@ A searchable list of emoji icons and their markdown syntax.
 | :broken_heart: | `:broken_heart:` | :clown_face: | `:clown_face:` | :cold_face: | `:cold_face:` |
 | :cold_sweat: | `:cold_sweat:` | :confounded: | `:confounded:` | :confused: | `:confused:` |
 | :cowboy_hat_face: | `:cowboy_hat_face:` | :cry: | `:cry:` | :crying_cat_face: | `:crying_cat_face:` |
-| :cupid: | `:cupid:` | :cursing_face: | `:cursing_face:` |
+| :cupid: | `:cupid:` | :cursing_face: | `:cursing_face:` | :dash: | `:dash:` |
+| :disappointed: | `:disappointed:` | :disappointed_relieved: | `:disappointed_relieved:` | :disguised_face: | `:disguised_face:` |
+| :dizzy_face: | `:dizzy_face:` | :dotted_line_face: | `:dotted_line_face:` | :dragon_face: | `:dragon_face:` |
+| :drooling_face: | `:drooling_face:` |
 
-[back to top](#emoji-markdown)
+[back to top](#emojis-in-markdown)
 
 ---
 
@@ -56,9 +59,11 @@ A searchable list of emoji icons and their markdown syntax.
 | :couple_with_heart_man_man: | `:couple_with_heart_man_man:` | :couple_with_heart_woman_man: | `:couple_with_heart_woman_man:` | :couple_with_heart_woman_woman: | `:couple_with_heart_woman_woman:` |
 | :couplekiss: | `:couplekiss:` | :couplekiss_man_man: | `:couplekiss_man_man:` | :couplekiss_man_woman: | `:couplekiss_man_woman:` |
 | :couplekiss_woman_woman: | `:couplekiss_woman_woman:` | :crossed_fingers: | `:crossed_fingers:` | :curly_haired_man: | `:curly_haired_man:` |
-| :curly_haired_woman: | `:curly_haired_woman:` |
+| :curly_haired_woman: | `:curly_haired_woman:` | :dancer: | `:dancer:` | :dancers: | `:dancers:` |
+| :dancing_men: | `:dancing_men:` | :dancing_women: | `:dancing_women:` | :deaf_man: | `:deaf_man:` |
+| :deaf_person: | `:deaf_person:` | :deaf_woman: | `:deaf_woman:` | :detective: | `:detective:` |
 
-[back to top](#emoji-markdown)
+[back to top](#emojis-in-markdown)
 
 ---
 
@@ -68,8 +73,9 @@ A searchable list of emoji icons and their markdown syntax.
 | --- | --- | --- | --- | --- | --- |
 | :athletic_shoe: | `:athletic_shoe:` | :ballet_shoes: | `:ballet_shoes:` | :bikini: | `:bikini:` |
 | :billed_cap: | `:billed_cap:` | :boot: | `:boot:` | :coat: | `:coat:` |
+| :dark_sunglasses: | `:dark_sunglasses:` | :dress: | `:dress:` |
 
-[back to top](#emoji-markdown)
+[back to top](#emojis-in-markdown)
 
 ---
 
@@ -87,9 +93,13 @@ A searchable list of emoji icons and their markdown syntax.
 | :cat2: | `:cat2:` | :cherry_blossom: | `:cherry_blossom:` | :chicken: | `:chicken:` |
 | :chipmunk: | `:chipmunk:` | :cockroach: | `:cockroach:` | :coral: | `:coral:` |
 | :cow: | `:cow:` | :cow2: | `:cow2:` | :crab: | `:crab:` |
-| :cricket: | `:cricket:` | :crocodile: | `:crocodile:` |
+| :cricket: | `:cricket:` | :crocodile: | `:crocodile:` | :deciduous_tree: | `:deciduous_tree:` |
+| :deer: | `:deer:` | :dodo: | `:dodo:` | :dog: | `:dog:` |
+| :dog2: | `:dog2:` | :dolphin: | `:dolphin:` | :donkey: | `:donkey:` |
+| :dove: | `:dove:` | :dragon: | `:dragon:` | :dromedary_camel: | `:dromedary_camel:` |
+| :duck: | `:duck:` |
 
-[back to top](#emoji-markdown)
+[back to top](#emojis-in-markdown)
 
 ---
 
@@ -111,8 +121,9 @@ A searchable list of emoji icons and their markdown syntax.
 | :cookie: | `:cookie:` | :corn: | `:corn:` | :croissant: | `:croissant:` |
 | :cucumber: | `:cucumber:` | :cup_with_straw: | `:cup_with_straw:` | :cupcake: | `:cupcake:` |
 | :curry: | `:curry:` | :custard: | `:custard:` | :cut_of_meat: | `:cut_of_meat:` |
+| :dango: | `:dango:` | :doughnut: | `:doughnut:` | :dumpling: | `:dumpling:` |
 
-[back to top](#emoji-markdown)
+[back to top](#emojis-in-markdown)
 
 ---
 
@@ -142,9 +153,13 @@ A searchable list of emoji icons and their markdown syntax.
 | :computer: | `:computer:` | :computer_mouse: | `:computer_mouse:` | :confetti_ball: | `:confetti_ball:` |
 | :control_knobs: | `:control_knobs:` | :couch_and_lamp: | `:couch_and_lamp:` | :crayon: | `:crayon:` |
 | :credit_card: | `:credit_card:` | :crossed_swords: | `:crossed_swords:` | :crown: | `:crown:` |
-| :crutch: | `:crutch:` |
+| :crutch: | `:crutch:` | :dagger: | `:dagger:` | :date: | `:date:` |
+| :desktop_computer: | `:desktop_computer:` | :diya_lamp: | `:diya_lamp:` | :dizzy: | `:dizzy:` |
+| :dna: | `:dna:` | :dollar: | `:dollar:` | :dolls: | `:dolls:` |
+| :door: | `:door:` | :drop_of_blood: | `:drop_of_blood:` | :droplet: | `:droplet:` |
+| :drum: | `:drum:` | :dvd: | `:dvd:` |
 
-[back to top](#emoji-markdown)
+[back to top](#emojis-in-markdown)
 
 ---
 
@@ -157,9 +172,10 @@ A searchable list of emoji icons and their markdown syntax.
 | :baseball: | `:baseball:` | :basketball: | `:basketball:` | :black_joker: | `:black_joker:` |
 | :bow_and_arrow: | `:bow_and_arrow:` | :bowling: | `:bowling:` | :boxing_glove: | `:boxing_glove:` |
 | :chess_pawn: | `:chess_pawn:` | :clubs: | `:clubs:` | :cricket_game: | `:cricket_game:` |
-| :crystal_ball: | `:crystal_ball:` | :curling_stone: | `:curling_stone:` |
+| :crystal_ball: | `:crystal_ball:` | :curling_stone: | `:curling_stone:` | :dart: | `:dart:` |
+| :diving_mask: | `:diving_mask:` |
 
-[back to top](#emoji-markdown)
+[back to top](#emojis-in-markdown)
 
 ---
 
@@ -188,9 +204,10 @@ A searchable list of emoji icons and their markdown syntax.
 | :cloud_with_lightning: | `:cloud_with_lightning:` | :cloud_with_lightning_and_rain: | `:cloud_with_lightning_and_rain:` | :cloud_with_rain: | `:cloud_with_rain:` |
 | :cloud_with_snow: | `:cloud_with_snow:` | :comet: | `:comet:` | :compass: | `:compass:` |
 | :construction: | `:construction:` | :convenience_store: | `:convenience_store:` | :crescent_moon: | `:crescent_moon:` |
-| :cyclone: | `:cyclone:` |
+| :cyclone: | `:cyclone:` | :department_store: | `:department_store:` | :derelict_house: | `:derelict_house:` |
+| :desert: | `:desert:` | :desert_island: | `:desert_island:` |
 
-[back to top](#emoji-markdown)
+[back to top](#emojis-in-markdown)
 
 ---
 
@@ -218,9 +235,10 @@ A searchable list of emoji icons and their markdown syntax.
 | :chart: | `:chart:` | :chart_with_downwards_trend: | `:chart_with_downwards_trend:` | :chart_with_upwards_trend: | `:chart_with_upwards_trend:` |
 | :cinema: | `:cinema:` | :cl: | `:cl:` | :collision: | `:collision:` |
 | :cool: | `:cool:` | :copyright: | `:copyright:` | :curly_loop: | `:curly_loop:` |
-| :currency_exchange: | `:currency_exchange:` | :customs: | `:customs:` |
+| :currency_exchange: | `:currency_exchange:` | :customs: | `:customs:` | :diamond_shape_with_a_dot_inside: | `:diamond_shape_with_a_dot_inside:` |
+| :diamonds: | `:diamonds:` | :do_not_litter: | `:do_not_litter:` |
 
-[back to top](#emoji-markdown)
+[back to top](#emojis-in-markdown)
 
 ## Flags
 
@@ -248,9 +266,11 @@ A searchable list of emoji icons and their markdown syntax.
 | :congo_brazzaville: | `:congo_brazzaville:` | :congo_kinshasa: | `:congo_kinshasa:` | :cook_islands: | `:cook_islands:` |
 | :costa_rica: | `:costa_rica:` | :cote_divoire: | `:cote_divoire:` | :croatia: | `:croatia:` |
 | :crossed_flags: | `:crossed_flags:` | :cuba: | `:cuba:` | :curacao: | `:curacao:` |
-| :cyprus: | `:cyprus:` | :czech_republic: | `:czech_republic:` |
+| :cyprus: | `:cyprus:` | :czech_republic: | `:czech_republic:` | :de: | `:de:` |
+| :denmark: | `:denmark:` | :diego_garcia: | `:diego_garcia:` | :djibouti: | `:djibouti:` |
+| :dominica: | `:dominica:` | :dominican_republic: | `:dominican_republic:` |
 
-[back to top](#emoji-markdown)
+[back to top](#emojis-in-markdown)
 
 ---
 
@@ -259,9 +279,9 @@ A searchable list of emoji icons and their markdown syntax.
 | Emoji | Markdown | Emoji | Markdown | Emoji | Markdown |
 | --- | --- | --- | --- | --- | --- |
 | :accessibility: | `:accessibility:` | :atom: | `:atom:` | :basecamp: | `:basecamp:` |
-| :basecampy: | `:basecampy:` | :bowtie: | `:bowtie:` |
+| :basecampy: | `:basecampy:` | :bowtie: | `:bowtie:` | :dependabot: | `:dependabot:` |
 
-[back to top](#emoji-markdown)
+[back to top](#emojis-in-markdown)
 
 ---
 
@@ -273,7 +293,7 @@ A searchable list of emoji icons and their markdown syntax.
 | :beginner: | `:beginner:` | Japanese: "Beginner" |
 | :congratulations: | `:congratulations:` | Japanese: "Congratulations" |
 
-[back to top](#emoji-markdown)
+[back to top](#emojis-in-markdown)
 
 ---
 
@@ -294,4 +314,4 @@ A searchable list of emoji icons and their markdown syntax.
 | Sagittarius | :sagittarius: | `:sagittarius:` | November 22 — December 21 |
 | Capricorn | :capricorn: | `:capricorn:` | December 22 — January 19 |
 
-[back to top](#emoji-markdown)
+[back to top](#emojis-in-markdown)
