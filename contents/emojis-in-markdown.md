@@ -31,7 +31,11 @@ A searchable list of emoji icons and their markdown syntax.
 | :disappointed: | `:disappointed:` | :disappointed_relieved: | `:disappointed_relieved:` | :disguised_face: | `:disguised_face:` |
 | :dizzy_face: | `:dizzy_face:` | :dotted_line_face: | `:dotted_line_face:` | :dragon_face: | `:dragon_face:` |
 | :drooling_face: | `:drooling_face:` | :exploding_head: | `:exploding_head:` | :expressionless: | `:expressionless:` |
-| :eye_speech_bubble: | `:eye_speech_bubble:` |
+| :eye_speech_bubble: | `:eye_speech_bubble:` | :face_exhaling: | `:face_exhaling:` | :face_holding_back_tears: | `:face_holding_back_tears:` |
+| :face_in_clouds: | `:face_in_clouds:` | :face_with_diagonal_mouth: | `:face_with_diagonal_mouth:` | :face_with_head_bandage: | `:face_with_head_bandage:` |
+| :face_with_open_eyes_and_hand_over_mouth: | `:face_with_open_eyes_and_hand_over_mouth:` | :face_with_peeking_eye: | `:face_with_peeking_eye:` | :face_with_spiral_eyes: | `:face_with_spiral_eyes:` |
+| :face_with_thermometer: | `:face_with_thermometer:` | :facepalm: | `:facepalm:` | :fearful: | `:fearful:` |
+| :flushed: | `:flushed:` | :fox_face: | `:fox_face:` |
 
 [Back to Top](#emojis-in-markdown)
 
@@ -65,7 +69,14 @@ A searchable list of emoji icons and their markdown syntax.
 | :deaf_person: | `:deaf_person:` | :deaf_woman: | `:deaf_woman:` | :detective: | `:detective:` |
 | :ear: | `:ear:` | :ear_with_hearing_aid: | `:ear_with_hearing_aid:` | :elf: | `:elf:` |
 | :elf_man: | `:elf_man:` | :elf_woman: | `:elf_woman:` | :eye: | `:eye:` |
-| :eyes: | `:eyes:` |
+| :eyes: | `:eyes:` | :facepunch: | `:facepunch:` | :factory_worker: | `:factory_worker:` |
+| :fairy: | `:fairy:` | :fairy_man: | `:fairy_man:` | :fairy_woman: | `:fairy_woman:` |
+| :farmer: | `:farmer:` | :female_detective: | `:female_detective:` | :firefighter: | `:firefighter:` |
+| :fist: | `:fist:` | :fist_left: | `:fist_left:` | :fist_oncoming: | `:fist_oncoming:` |
+| :fist_raised: | `:fist_raised:` | :fist_right: | `:fist_right:` | :foot: | `:foot:` |
+| :footprints: | `:footprints:` | :frowning: | `:frowning:` | :frowning_face: | `:frowning_face:` |
+| :frowning_man: | `:frowning_man:` | :frowning_person: | `:frowning_person:` | :frowning_woman: | `:frowning_woman:` |
+| :fu: | `:fu:` |
 
 [Back to Top](#emojis-in-markdown)
 
@@ -78,6 +89,7 @@ A searchable list of emoji icons and their markdown syntax.
 | :athletic_shoe: | `:athletic_shoe:` | :ballet_shoes: | `:ballet_shoes:` | :bikini: | `:bikini:` |
 | :billed_cap: | `:billed_cap:` | :boot: | `:boot:` | :coat: | `:coat:` |
 | :dark_sunglasses: | `:dark_sunglasses:` | :dress: | `:dress:` | :eyeglasses: | `:eyeglasses:` |
+| :flat_shoe: | `:flat_shoe:` |
 
 [Back to Top](#emojis-in-markdown)
 
@@ -103,6 +115,9 @@ A searchable list of emoji icons and their markdown syntax.
 | :dove: | `:dove:` | :dragon: | `:dragon:` | :dromedary_camel: | `:dromedary_camel:` |
 | :duck: | `:duck:` | :eagle: | `:eagle:` | :ear_of_rice: | `:ear_of_rice:` |
 | :elephant: | `:elephant:` | :empty_nest: | `:empty_nest:` | :evergreen_tree: | `:evergreen_tree:` |
+| :fallen_leaf: | `:fallen_leaf:` | :feather: | `:feather:` | :feet: | `:feet:` |
+| :fish: | `:fish:` | :flamingo: | `:flamingo:` | :flipper: | `:flipper:` |
+| :fly: | `:fly:` | :frog: | `:frog:` | :four_leaf_clover: | `:four_leaf_clover:` |
 
 [Back to Top](#emojis-in-markdown)
 
@@ -127,7 +142,11 @@ A searchable list of emoji icons and their markdown syntax.
 | :cucumber: | `:cucumber:` | :cup_with_straw: | `:cup_with_straw:` | :cupcake: | `:cupcake:` |
 | :curry: | `:curry:` | :custard: | `:custard:` | :cut_of_meat: | `:cut_of_meat:` |
 | :dango: | `:dango:` | :doughnut: | `:doughnut:` | :dumpling: | `:dumpling:` |
-| :egg: | `:egg:` | :eggplant: | `:eggplant:` |
+| :egg: | `:egg:` | :eggplant: | `:eggplant:` | :falafel: | `:falafel:` |
+| :fish_cake: | `:fish_cake:` | :flatbread: | `:flatbread:` | :fondue: | `:fondue:` |
+| :fortune_cookie: | `:fortune_cookie:` | :fried_egg: | `:fried_egg:` | :fried_shrimp: | `:fried_shrimp:` |
+| :fries: | `:fries:` | :fork_and_knife: | `:fork_and_knife:` |
+
 
 [Back to Top](#emojis-in-markdown)
 
@@ -165,7 +184,11 @@ A searchable list of emoji icons and their markdown syntax.
 | :door: | `:door:` | :drop_of_blood: | `:drop_of_blood:` | :droplet: | `:droplet:` |
 | :drum: | `:drum:` | :dvd: | `:dvd:` | :e-mail: | `:e-mail:` |
 | :electric_plug: | `:electric_plug:` | :envelope: | `:envelope:` | :envelope_with_arrow: | `:envelope_with_arrow:` |
-| :euro: | `:euro:` |
+| :euro: | `:euro:` | :fax: | `:fax:` | :file_cabinet: | `:file_cabinet:` |
+| :file_folder: | `:file_folder:` | :film_projector: | `:film_projector:` | :film_strip: | `:film_strip:` |
+| :fire_extinguisher: | `:fire_extinguisher:` | :firecracker: | `:firecracker:` | :flashlight: | `:flashlight:` |
+| :floppy_disk: | `:floppy_disk:` | :fountain_pen: | `:fountain_pen:` | :framed_picture: | `:framed_picture:` |
+| :funeral_urn: | `:funeral_urn:` |
 
 [Back to Top](#emojis-in-markdown)
 
@@ -181,7 +204,9 @@ A searchable list of emoji icons and their markdown syntax.
 | :bow_and_arrow: | `:bow_and_arrow:` | :bowling: | `:bowling:` | :boxing_glove: | `:boxing_glove:` |
 | :chess_pawn: | `:chess_pawn:` | :clubs: | `:clubs:` | :cricket_game: | `:cricket_game:` |
 | :crystal_ball: | `:crystal_ball:` | :curling_stone: | `:curling_stone:` | :dart: | `:dart:` |
-| :diving_mask: | `:diving_mask:` |
+| :diving_mask: | `:diving_mask:` | :field_hockey: | `:field_hockey:` | :fireworks: | `:fireworks:` |
+| :fishing_pole_and_fish: | `:fishing_pole_and_fish:` | :flower_playing_cards: | `:flower_playing_cards:` | :flute: | `:flute:` |
+| :flying_disc: | `:flying_disc:` | :football: | `:football:` |
 
 [Back to Top](#emojis-in-markdown)
 
@@ -215,13 +240,22 @@ A searchable list of emoji icons and their markdown syntax.
 | :cyclone: | `:cyclone:` | :department_store: | `:department_store:` | :derelict_house: | `:derelict_house:` |
 | :desert: | `:desert:` | :desert_island: | `:desert_island:` | :earth_africa: | `:earth_africa:` |
 | :earth_americas: | `:earth_americas:` | :earth_asia: | `:earth_asia:` | :elevator: | `:elevator:` |
-| :european_castle: | `:european_castle:` | :european_post_office: | `:european_post_office:` |
+| :european_castle: | `:european_castle:` | :european_post_office: | `:european_post_office:` | :factory: | `:factory:` |
+| :ferris_wheel: | `:ferris_wheel:` | :ferry: | `:ferry:` | :fire: | `:fire:` |
+| :fire_engine: | `:fire_engine:` | :first_quarter_moon: | `:first_quarter_moon:` | :first_quarter_moon_with_face: | `:first_quarter_moon_with_face:` |
+| :flight_arrival: | `:flight_arrival:` | :flight_departure: | `:flight_departure:` | :flying_saucer: | `:flying_saucer:` |
+| :fog: | `:fog:` | :foggy: | `:foggy:` | :fountain: | `:fountain:` |
+| :fuelpump: | `:fuelpump:` | :full_moon: | `:full_moon:` | :full_moon_with_face: | `:full_moon_with_face:` |
 
 [Back to Top](#emojis-in-markdown)
 
 ---
 
 ## Symbols
+
+[Family](#family)
+
+---
 
 | Emoji | Markdown | Emoji | Markdown | Emoji | Markdown |
 | --- | --- | --- | --- | --- | --- |
@@ -248,9 +282,44 @@ A searchable list of emoji icons and their markdown syntax.
 | :currency_exchange: | `:currency_exchange:` | :customs: | `:customs:` | :diamond_shape_with_a_dot_inside: | `:diamond_shape_with_a_dot_inside:` |
 | :diamonds: | `:diamonds:` | :do_not_litter: | `:do_not_litter:` | :eight: | `:eight:` |
 | :eight_pointed_black_star: | `:eight_pointed_black_star:` | :eight_spoked_asterisk: | `:eight_spoked_asterisk:` | :eject_button: | `:eject_button:` |
-| :end: | `:end:` | :exclamation: | `:exclamation:` |
+| :end: | `:end:` | :exclamation: | `:exclamation:` | :fast_forward: | `:fast_forward:` |
+| :female_sign: | `:female_sign:` | :five: | `:five:` | :fleur_de_lis: | `:fleur_de_lis:` |
+| :four: | `:four:` | :free: | `:free:` |
 
 [Back to Top](#emojis-in-markdown)
+
+### Family
+
+| Emoji | Markdown |
+| --- | --- |
+| :family: | `:family:` |
+| :family_man_boy: | `:family_man_boy:` |
+| :family_man_boy_boy: | `:family_man_boy_boy:` |
+| :family_man_girl: | `:family_man_girl:` |
+| :family_man_girl_boy: | `:family_man_girl_boy:` |
+| :family_man_girl_girl: | `:family_man_girl_girl:` |
+| :family_man_man_boy: | `:family_man_man_boy:` |
+| :family_man_man_boy_boy: | `:family_man_man_boy_boy:` |
+| :family_man_man_girl: | `:family_man_man_girl:` |
+| :family_man_man_girl_boy: | `:family_man_man_girl_boy:` |
+| :family_man_man_girl_girl: | `:family_man_man_girl_girl:` |
+| :family_man_woman_boy: | `:family_man_woman_boy:` |
+| :family_man_woman_boy_boy: | `:family_man_woman_boy_boy:` |
+| :family_man_woman_girl: | `:family_man_woman_girl:` |
+| :family_man_woman_girl_boy: | `:family_man_woman_girl_boy:` |
+| :family_man_woman_girl_girl: | `:family_man_woman_girl_girl:` |
+| :family_woman_boy: | `:family_woman_boy:` |
+| :family_woman_boy_boy: | `:family_woman_boy_boy:` |
+| :family_woman_girl: | `:family_woman_girl:` |
+| :family_woman_girl_boy: | `:family_woman_girl_boy:` |
+| :family_woman_girl_girl: | `:family_woman_girl_girl:` |
+| :family_woman_woman_boy: | `:family_woman_woman_boy:` |
+| :family_woman_woman_boy_boy: | `:family_woman_woman_boy_boy:` |
+| :family_woman_woman_girl: | `:family_woman_woman_girl:` |
+| :family_woman_woman_girl_boy: | `:family_woman_woman_girl_boy:` |
+| :family_woman_woman_girl_girl: | `:family_woman_woman_girl_girl:` |
+
+[Back to Symbols](#symbols) or [Back to Top](#emojis-in-markdown)
 
 ---
 
@@ -302,6 +371,7 @@ A searchable list of emoji icons and their markdown syntax.
 | Costa Rica | :costa_rica: | `:costa_rica:` |
 | Ecuador | :ecuador: | `:ecuador:` |
 | El Salvador | :el_salvador: | `:el_salvador:` |
+| French Guiana | :french_guiana: | `:french_guiana:` |
 
 [Back to Flags](#flags) or [Back to Top](#emojis-in-markdown)
 
@@ -344,6 +414,8 @@ A searchable list of emoji icons and their markdown syntax.
 | Denmark | :denmark: | `:denmark:` |
 | England | :england: | `:england:` |
 | Estonia | :estonia: | `:estonia:` |
+| Finland | :finland: | `:finland:` |
+| France | :fr: | `:fr:` |
 | Germany | :de: | `:de:` |
 | Spain | :es: | `:es:` |
 
@@ -370,6 +442,8 @@ A searchable list of emoji icons and their markdown syntax.
 | Atlantic Ocean | Bouvet Island | :bouvet_island: | `:bouvet_island:` |
 | Atlantic Ocean | Canary Islands | :canary_islands: | `:canary_islands:` |
 | Atlantic Ocean | Cape Verde | :cape_verde: | `:cape_verde:` |
+| Atlantic Ocean | Falkland Islands | :falkland_islands: | `:falkland_islands:` |
+| Atlantic Ocean | Faroe Islands | :faroe_islands: | `:faroe_islands:` |
 | Baltic Sea | Åland Islands | :aland_islands: | `:aland_islands:` |
 | Caribbean Sea | Anguilla | :anguilla: | `:anguilla:` |
 | Caribbean Sea | Antigua and Barbuda | :antigua_barbuda: | `:antigua_barbuda:` |
@@ -389,11 +463,14 @@ A searchable list of emoji icons and their markdown syntax.
 | Indian Ocean | Comoros | :comoros: | `:comoros:` |
 | Indian Ocean | Christmas Island | :christmas_island: | `:christmas_island:` |
 | Indian Ocean | Diego Garcia | :diego_garcia: | `:diego_garcia:` |
+| Indian Ocean | French Southern and Antarctic Lands | :french_southern_territories: | `:french_southern_territories:` |
 | Mediterranean Sea | Cyprus | :cyprus: | `:cyprus:` |
 | Pacific Ocean | American Samoa | :american_samoa: | `:american_samoa:` |
 | Pacific Ocean | Clipperton Island | :clipperton_island: | `:clipperton_island:` |
 | Pacific Ocean | Cocos Island | :cocos_islands: | `:cocos_islands:` |
 | Pacific Ocean | Cook Islands | :cook_islands: | `:cook_islands:` |
+| Pacific Ocean | Fiji Islands | :fiji: | `:fiji:` |
+| Pacific Ocean | French Polynesia | :french_polynesia: | `:french_polynesia:` |
 
 [Back to Flags](#flags) or [Back to Top](#emojis-in-markdown)
 
@@ -407,6 +484,7 @@ A searchable list of emoji icons and their markdown syntax.
 | Checkered | :checkered_flag: | `:checkered_flag:` |
 | Crossed | :crossed_flags: | `:crossed_flags:` |
 | European Union | :eu: | `:eu:` or `:european_union:` |
+| Carp Streamer | :flags: | `:flags:` |
 
 [Back to Flags](#flags) or [Back to Top](#emojis-in-markdown)
 
@@ -418,7 +496,8 @@ A searchable list of emoji icons and their markdown syntax.
 | --- | --- | --- | --- | --- | --- |
 | :accessibility: | `:accessibility:` | :atom: | `:atom:` | :basecamp: | `:basecamp:` |
 | :basecampy: | `:basecampy:` | :bowtie: | `:bowtie:` | :dependabot: | `:dependabot:` |
-| :electron: | `:electron:` |
+| :electron: | `:electron:` | :feelsgood: | `:feelsgood:` | :finnadie: | `:finnadie:` |
+| :fishsticks: | `:fishsticks:` |
 
 [Back to Top](#emojis-in-markdown)
 
