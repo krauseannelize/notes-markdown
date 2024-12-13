@@ -50,7 +50,7 @@ Text line 2
 
 ---
 
-[back to top](#markdown-basics)
+[Back to Top](#markdown-basics)
 
 ---
 
@@ -71,7 +71,7 @@ Text can be emphasized by encapsulating words or phrases in a combination of sym
 
 ---
 
-[back to top](#markdown-basics)
+[Back to Top](#markdown-basics)
 
 ---
 
@@ -93,7 +93,7 @@ In Markdown, special characters such as <, >, &, and # have specific meanings an
 
 ---
 
-[back to top](#markdown-basics)
+[Back to Top](#markdown-basics)
 
 ---
 
@@ -130,7 +130,7 @@ To create a heading, add the hash symbol (#) in front of the heading text. The n
 
 ---
 
-[back to top](#markdown-basics)
+[Back to Top](#markdown-basics)
 
 ---
 
@@ -162,7 +162,7 @@ It is best practice to add a blank line before and after a horizontal line for c
 
 ---
 
-[back to top](#markdown-basics)
+[Back to Top](#markdown-basics)
 
 ---
 
@@ -190,7 +190,7 @@ https://github.com/krauseannelize
 
 ---
 
-[back to top](#markdown-basics)
+[Back to Top](#markdown-basics)
 
 ---
 
@@ -212,7 +212,7 @@ To navigate to other files in your repository, you can insert relative links. A 
 
 ---
 
-[back to top](#markdown-basics)
+[Back to Top](#markdown-basics)
 
 ---
 
@@ -234,7 +234,7 @@ You can display a handy tooltip when someone hovers over the link with a mouse b
 
 ---
 
-[back to top](#markdown-basics)
+[Back to Top](#markdown-basics)
 
 ---
 
@@ -256,7 +256,7 @@ You can turn a URL or email address into a clickable link by enclosing it in lef
 
 ---
 
-[back to top](#markdown-basics)
+[Back to Top](#markdown-basics)
 
 ---
 
@@ -304,7 +304,7 @@ Image inserted from a URL:
 
 ---
 
-[back to top](#markdown-basics)
+[Back to Top](#markdown-basics)
 
 ---
 
@@ -362,7 +362,7 @@ Using just number 1:
 
 ---
 
-[back to top](#markdown-basics)
+[Back to Top](#markdown-basics)
 
 ---
 
@@ -418,7 +418,7 @@ List with plus signs:
 
 ---
 
-[back to top](#markdown-basics)
+[Back to Top](#markdown-basics)
 
 ---
 
@@ -452,7 +452,7 @@ You can combine both ordered and unordered lists to create nested lists by inden
 
 ---
 
-[back to top](#markdown-basics)
+[Back to Top](#markdown-basics)
 
 ---
 
@@ -478,7 +478,7 @@ Keep track of tasks with checked or unchecked boxes by creating a task list. Add
 
 ---
 
-[back to top](#markdown-basics)
+[Back to Top](#markdown-basics)
 
 ---
 
@@ -502,7 +502,7 @@ Some Python functions that are very useful is `print()`, `type()`, `range()` and
 
 ---
 
-[back to top](#markdown-basics)
+[Back to Top](#markdown-basics)
 
 ---
 
@@ -533,7 +533,7 @@ print()
 
 ---
 
-[back to top](#markdown-basics)
+[Back to Top](#markdown-basics)
 
 ---
 
@@ -578,7 +578,7 @@ Create a dialogue
 
 ---
 
-[back to top](#markdown-basics)
+[Back to Top](#markdown-basics)
 
 ---
 
@@ -624,7 +624,7 @@ Table without additional spaces:
 
 ---
 
-[back to top](#markdown-basics)
+[Back to Top](#markdown-basics)
 
 ---
 
@@ -656,7 +656,7 @@ By default, the table will align all text in the table to the left. You can chan
 
 ---
 
-[back to top](#markdown-basics)
+[Back to Top](#markdown-basics)
 
 ---
 
@@ -680,7 +680,7 @@ Formatting that you cannot use inside tables:
 
 ---
 
-[back to top](#markdown-basics)
+[Back to Top](#markdown-basics)
 
 ---
 
@@ -711,7 +711,7 @@ In VS Code when you type a hash inside the round bracket that follows square bra
 
 ---
 
-[back to top](#markdown-basics)
+[Back to Top](#markdown-basics)
 
 ---
 
@@ -733,6 +733,6 @@ Check out the [Octocat](#octocat-images) above.
 
 ---
 
-[back to top](#markdown-basics)
+[Back to Top](#markdown-basics)
 
 ---
